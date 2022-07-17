@@ -1,4 +1,4 @@
-name: JueJin_Helper
+name: Bing_Wallpaper_node
 
 on:
   push:
@@ -17,7 +17,7 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 12
-      - name: Build Project
+        # - name: Build Project
         run: npm ci
 
   send:
