@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/exposir/bing-wallpaper-node#readme",
   "dependencies": {
+    "node-fetch": "2.6.1",
     "request": "^2.88.2"
   }
 }
