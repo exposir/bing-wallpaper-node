@@ -10,7 +10,6 @@ async function init() {
         const { images = [] } = bingJson
         let { url, title } = images[0] || {}
         url = url.split('1920x1080').join('UHD')
-        console.log('url', url)
         // 下载单张图片 src是图片的网上地址 dest是你将这图片放在本地的路径 callback可以是下载之后的事}
         const downloadImage = (src, dest, callback) => {
             request.head(src, (err, res, body) => {
@@ -22,6 +21,7 @@ async function init() {
         }
         const date = new Date().getTime()
         console.log(date)
+        console.log(url)
         downloadImage(`https://cn.bing.com/${url}`, `./static/${title}${date}.jpg`, (err, data) => { err ? console.log(err) : console.log(`下载成功！图片地址是：${path.resolve(data)}`) })
     } catch (e) {
         console.log('err', e)
