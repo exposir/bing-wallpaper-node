@@ -23,6 +23,8 @@ jobs:
         with:
           node-version: 12
           registry-url: https://npm.pkg.github.com/
+      - name: build
+        run: npm install
       - name: Run Project
         run: node index.js
       - name: Commit files
