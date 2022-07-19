@@ -2,9 +2,23 @@ let fs = require('fs')
 let request = require('request')
 let path = require('path')
 const fetch = require("node-fetch");
+const { Octokit } = require("octokit")
 
 async function init() {
     try {
+
+
+        const core = require('@actions/core')
+        const auth = core.getInput('token')
+        const octokit = new Octokit({ auth })
+
+        octokit.rest.issues.create({
+            owner: "your name", // GitHub账户名
+            repo: "your project name", // 项目名称
+            title: '删除排序数组中的重复项', // issue标题
+            body: '关于删除排序数组中的重复项的更多解法，欢迎在issue中讨论~' // issue描述
+        })
+
         const bing = await fetch('https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=zh-CN')
         const bingJson = await bing.json()
         const { images = [] } = bingJson
