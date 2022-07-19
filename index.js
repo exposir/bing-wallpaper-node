@@ -17,5 +17,5 @@ const date = new Date().getTime()
 console.log(date)
 
 
-downloadImage('https://article-fd.zol-img.com.cn/t_s640x2000/g4/M06/06/0B/ChMly11592GIf2IZABGTyV_p7DgAAXpLwH8ztgAEZPh660.jpg', `./static/就是这张图${date}.jpg`, (err, data) => { err ? console.log(err) : console.log(`下载成功！图片地址是：${path.resolve(data)}`) })
+downloadImage('https://cn.bing.com//th?id=OHR.FraueninselChiemsee_ZH-CN3541482552_UHD.jpg&rf=LaDigue_UHD.jpg', `./static/就是这张图${date}.jpg`, (err, data) => { err ? console.log(err) : console.log(`下载成功！图片地址是：${path.resolve(data)}`) })
 
