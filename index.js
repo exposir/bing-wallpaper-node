@@ -55,19 +55,19 @@ async function init() {
       }
     });
 
-    console.log("准备写入文件");
-    fs.writeFile("README.md", `![](${downloadUrl})`, function (err) {
-      if (err) {
-        return console.error(err);
-      }
-      console.log("读取写入的数据！");
-      fs.readFile("README.md", function (err, data) {
-        if (err) {
-          return console.error(err);
-        }
-        console.log("异步读取文件数据: " + data.toString());
-      });
-    });
+    // console.log("准备写入文件");
+    // fs.writeFile("README.md", `![](${downloadUrl})`, function (err) {
+    //   if (err) {
+    //     return console.error(err);
+    //   }
+    //   console.log("读取写入的数据！");
+    //   fs.readFile("README.md", function (err, data) {
+    //     if (err) {
+    //       return console.error(err);
+    //     }
+    //     console.log("异步读取文件数据: " + data.toString());
+    //   });
+    // });
   } catch (e) {
     console.log("err", e);
   }
