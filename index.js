@@ -39,18 +39,35 @@ async function init() {
             });
       });
     };
-    const date = new Date().getTime();
-    console.log(date);
-    console.log(url);
-    downloadImage(
-      `https://cn.bing.com/${url}`,
-      `./static/${title}.jpg`,
-      (err, data) => {
-        err
-          ? console.log(err)
-          : console.log(`下载成功！图片地址是：${path.resolve(data)}`);
+    // const date = new Date().getTime();
+    // console.log(date);
+
+    const downloadUrl = `https://cn.bing.com/${url}`;
+    const fileUrl = `./static/${title}.jpg`;
+
+    console.log(downloadUrl);
+
+    downloadImage(downloadUrl, fileUrl, (err, data) => {
+      if (err) {
+        console.log(err);
+      } else {
+        console.log(`下载成功！图片地址是：${path.resolve(data)}`);
       }
-    );
+    });
+
+    console.log("准备写入文件");
+    fs.writeFile("README.md", `![](${downloadUrl})`, function (err) {
+      if (err) {
+        return console.error(err);
+      }
+      console.log("读取写入的数据！");
+      fs.readFile("README.md", function (err, data) {
+        if (err) {
+          return console.error(err);
+        }
+        console.log("异步读取文件数据: " + data.toString());
+      });
+    });
   } catch (e) {
     console.log("err", e);
   }
