@@ -23,7 +23,7 @@ jobs:
           git config --local user.email "897205285@@@.com"
           git config --local user.name "exposir"
           git pull
-          git add static/*
+          git add ./
           git commit -m "update"
       - name: Push changes
         uses: ad-m/github-push-action@master
