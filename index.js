@@ -49,7 +49,7 @@ async function init() {
     const day = time.getDate();
     const date = `${year}-${month}-${day}`;
 
-    console.log(time.getTime());
+    console.log(time.getHours());
 
     console.log("date", date);
 
