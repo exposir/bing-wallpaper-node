@@ -2,7 +2,7 @@
 
 # Bing 每日壁纸
 
-![](./static/“夜光”云2k.jpg)
+![](./static/贴秋膘了吗？.jpg)
 
 今天：[立陶宛的夜光云 4k (© ljphoto7/Getty Images) ](./static/“夜光”云4k.jpg)
 
