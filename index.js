@@ -109,7 +109,7 @@ async function init() {
         if (err) {
           return console.error(err);
         }
-        writeReadme();
+        writeReadme(b);
       });
     });
   } catch (e) {
@@ -117,10 +117,10 @@ async function init() {
   }
 }
 
-const writeReadme = async () => {
+const writeReadme = async (list) => {
   const arr = [`|     |     |     | \n`, `|:---:|:---:|:---:| \n`];
   const newArr = [];
-  BeforeMap.forEach((item, index) => {
+  list.forEach((item, index) => {
     let flag = index + 1;
 
     const data = `![](${item.filePreviewUrl}) <br> ${item.date} [4K 版本](${item.file4kUrl}) <br> ${item.chinesePreviewTitle}`;
