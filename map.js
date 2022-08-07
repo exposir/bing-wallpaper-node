@@ -12,7 +12,7 @@ const BeforeMap = [
   {
     date: "2022-08-07",
     local4kUrl: "./static/杭州西湖的古典中国园林4K.jpg",
-    localPreviewUrl: "./static/杭州西湖的古典中国园林preview.jpeg",
+    localPreviewUrl: "./static/杭州西湖的古典中国园林preview.jpg",
     bing4kUrl:
       "https://cn.bing.com//th?id=OHR.theBeginningofAutumn2022_ZH-CN9413449297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp",
     bingPreview:
