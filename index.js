@@ -2,6 +2,9 @@ let fs = require("fs");
 let request = require("request");
 let path = require("path");
 const fetch = require("node-fetch");
+
+const { BeforeMap } = require("./map");
+
 // const { Octokit } = require("octokit")
 
 async function init() {
@@ -39,8 +42,16 @@ async function init() {
             });
       });
     };
-    // const date = new Date().getTime();
-    // console.log(date);
+
+    const time = new Date();
+    const year = time.getFullYear();
+    const month = time.getMonth() + 1;
+    const day = time.getDate();
+    const date = `${year}-${month}-${day}`;
+
+    console.log(time.getTime());
+
+    console.log("date", date);
 
     const downloadUrl = `https://cn.bing.com/${url}`;
     const fileUrl = `./static/${title}.jpg`;
@@ -54,22 +65,62 @@ async function init() {
         console.log(`下载成功！图片地址是：${path.resolve(data)}`);
       }
     });
-
-    // console.log("准备写入文件");
-    // fs.writeFile("README.md", `![](${downloadUrl})`, function (err) {
-    //   if (err) {
-    //     return console.error(err);
-    //   }
-    //   console.log("读取写入的数据！");
-    //   fs.readFile("README.md", function (err, data) {
-    //     if (err) {
-    //       return console.error(err);
-    //     }
-    //     console.log("异步读取文件数据: " + data.toString());
-    //   });
-    // });
   } catch (e) {
     console.log("err", e);
   }
 }
+
+const writeReadme = () => {
+  const arr = [`|     |     |     | \n`, `|:---:|:---:|:---:| \n`];
+
+  const newArr = [];
+
+  BeforeMap.forEach((item, index) => {
+    let flag = index + 1;
+
+    const data = `![](${item.localPreviewUrl}) <br> ${item.date} [4K 版本](${item.local4kUrl}) <br> ${item.chinesePreviewTitle}`;
+
+    if (flag % 3 === 0) {
+      newArr.push(`|${data}|\n`);
+      const result = newArr.join("");
+      arr.push(result);
+      newArr.length = 0;
+    } else {
+      newArr.push(`|${data}`);
+    }
+
+    console.log(newArr);
+  });
+
+  let a = newArr.join("");
+
+  console.log(a);
+
+  arr.push(a);
+
+  console.log("准备写入文件");
+
+  fs.readFile("README.md", function (err, data) {
+    if (err) {
+      return console.error(err);
+    }
+    const result = data.toString();
+    // console.log("异步读取文件数据: " + result);
+
+    fs.writeFile("README.md", arr.join(""), function (err) {
+      if (err) {
+        return console.error(err);
+      }
+      fs.readFile("README.md", function (err, data) {
+        if (err) {
+          return console.error(err);
+        }
+        console.log("异步读取文件数据: " + data.toString());
+      });
+    });
+  });
+};
+
+// writeReadme();
+
 init();
