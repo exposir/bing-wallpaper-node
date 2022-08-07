@@ -1,47 +1,45 @@
 let fs = require("fs");
-let request = require("request");
+const fsPromises = require("fs").promises;
+// let request = require("request");
 let path = require("path");
+// const request = require("request-promise");
 const fetch = require("node-fetch");
-
-const { BeforeMap } = require("./map");
-
-// const { Octokit } = require("octokit")
+const BeforeMap = require("./map.json");
 
 async function init() {
   try {
-    // const core = require("@actions/core");
-    // const auth = core.getInput("token");
-    // const octokit = new Octokit({ auth })
+    //同步
+    // const downloadImage = async (src, dest, callback) => {
+    //   return request.head(src, (err, res, body) => {
+    //     if (err) {
+    //       console.log(err);
+    //       return;
+    //     }
+    //     if (src) {
+    //       request(src)
+    //         .pipe(fs.createWriteStream(dest))
+    //         .on("close", () => {
+    //           callback && callback(null, dest);
+    //         });
+    //     }
+    //   });
+    // };
 
-    // octokit.rest.issues.create({
-    //     owner: "your name", // GitHub账户名
-    //     repo: "your project name", // 项目名称
-    //     title: '删除排序数组中的重复项', // issue标题
-    //     body: '关于删除排序数组中的重复项的更多解法，欢迎在issue中讨论~' // issue描述
-    // })
+    //存储图片失败
+    // let response = await request(bing4kUrl);
+    // fsPromises.writeFile("./1.txt", response, "binary", function (err) {});
 
     const bing = await fetch(
       "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=zh-CN"
     );
     const bingJson = await bing.json();
     const { images = [] } = bingJson;
-    let { url, title } = images[0] || {};
+    let { url, title, copyright } = images[0] || {};
     url = url.split("1920x1080").join("UHD");
-    // 下载单张图片 src是图片的网上地址 dest是你将这图片放在本地的路径 callback可以是下载之后的事}
-    const downloadImage = (src, dest, callback) => {
-      request.head(src, (err, res, body) => {
-        if (err) {
-          console.log(err);
-          return;
-        }
-        src &&
-          request(src)
-            .pipe(fs.createWriteStream(dest))
-            .on("close", () => {
-              callback && callback(null, dest);
-            });
-      });
-    };
+
+    const chineseCopyright = copyright;
+    const chinesePreviewTitle = copyright.split("(")[0].trim();
+    const chineseTitle = title;
 
     const time = new Date();
     const year = time.getFullYear();
@@ -53,32 +51,79 @@ async function init() {
 
     console.log("date", date);
 
-    const downloadUrl = `https://cn.bing.com/${url}`;
-    const fileUrl = `./static/${title}.jpg`;
+    const bing4kUrl = `https://cn.bing.com/${url}`;
+    const bingPreviewUrl = `https://cn.bing.com/${url}&w=480&h=270`;
+    const file4kUrl = `./static/${chinesePreviewTitle}4k.jpg`;
+    const filePreviewUrl = `./static/${chinesePreviewTitle}preview.jpg`;
 
-    console.log(downloadUrl);
+    //异步
+    async function download(url, file, name) {
+      const response = await fetch(url);
+      const buffer = await response.buffer();
+      fs.writeFile(file, buffer, () =>
+        console.log(`finished downloading! ${name}`)
+      );
+    }
 
-    downloadImage(downloadUrl, fileUrl, (err, data) => {
-      if (err) {
-        console.log(err);
-      } else {
-        console.log(`下载成功！图片地址是：${path.resolve(data)}`);
-      }
+    await download(bing4kUrl, file4kUrl, `${chinesePreviewTitle}4k`);
+    await download(
+      bingPreviewUrl,
+      filePreviewUrl,
+      `${chinesePreviewTitle}preview`
+    );
+
+    // {
+    //   date: "2022-08-07",
+    //   file4kUrl: "./static/杭州西湖的古典中国园林4K.jpg",
+    //   filePreviewUrl: "./static/杭州西湖的古典中国园林preview.jpg",
+    //   bing4kUrl:
+    //     "https://cn.bing.com//th?id=OHR.theBeginningofAutumn2022_ZH-CN9413449297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp",
+    //   bingPreview:
+    //     "https://cn.bing.com//th?id=OHR.theBeginningofAutumn2022_ZH-CN9413449297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=480&h=270",
+    //   chineseTitle: "贴秋膘了吗？",
+    //   chineseCopyright: "杭州西湖的古典中国园林 (© DANNY HU/Getty Images)",
+    //   chinesePreviewTitle: "杭州西湖的古典中国园林",
+    // },
+
+    const newData = {
+      date,
+      file4kUrl,
+      filePreviewUrl,
+      bing4kUrl,
+      bingPreviewUrl,
+      chineseTitle,
+      chineseCopyright,
+      chinesePreviewTitle,
+    };
+    // console.log(newData);
+
+    console.log("成功");
+
+    fs.readFile("./map.json", function (err, data) {
+      const a = data.toString();
+      b = JSON.parse(a);
+      b.unshift(newData);
+      console.log(b);
+
+      fs.writeFile("./map.json", JSON.stringify(b), function (err) {
+        if (err) {
+          return console.error(err);
+        }
+        writeReadme();
+      });
     });
   } catch (e) {
     console.log("err", e);
   }
 }
 
-const writeReadme = () => {
+const writeReadme = async () => {
   const arr = [`|     |     |     | \n`, `|:---:|:---:|:---:| \n`];
-
   const newArr = [];
-
   BeforeMap.forEach((item, index) => {
     let flag = index + 1;
 
-    const data = `![](${item.localPreviewUrl}) <br> ${item.date} [4K 版本](${item.local4kUrl}) <br> ${item.chinesePreviewTitle}`;
+    const data = `![](${item.filePreviewUrl}) <br> ${item.date} [4K 版本](${item.file4kUrl}) <br> ${item.chinesePreviewTitle}`;
 
     if (flag % 3 === 0) {
       newArr.push(`|${data}|\n`);
@@ -104,7 +149,7 @@ const writeReadme = () => {
     if (err) {
       return console.error(err);
     }
-    const result = data.toString();
+    // const result = data.toString();
     // console.log("异步读取文件数据: " + result);
 
     fs.writeFile("README.md", arr.join(""), function (err) {
@@ -120,7 +165,5 @@ const writeReadme = () => {
     });
   });
 };
-
-// writeReadme();
 
 init();
