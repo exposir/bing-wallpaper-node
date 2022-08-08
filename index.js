@@ -53,8 +53,8 @@ async function init() {
 
     const bing4kUrl = `https://cn.bing.com/${url}`;
     const bingPreviewUrl = `https://cn.bing.com/${url}&w=480&h=270`;
-    const file4kUrl = `./static/${chinesePreviewTitle}4k.jpg`;
-    const filePreviewUrl = `./static/${chinesePreviewTitle}preview.jpg`;
+    const file4kUrl = `./static/${date}-4k.jpg`;
+    const filePreviewUrl = `./static/${date}-preview.jpg`;
 
     //异步
     async function download(url, file, name) {
@@ -65,12 +65,8 @@ async function init() {
       );
     }
 
-    await download(bing4kUrl, file4kUrl, `${chinesePreviewTitle}4k`);
-    await download(
-      bingPreviewUrl,
-      filePreviewUrl,
-      `${chinesePreviewTitle}preview`
-    );
+    await download(bing4kUrl, file4kUrl, `${date}-4k`);
+    await download(bingPreviewUrl, filePreviewUrl, `${date}-preview`);
 
     // {
     //   date: "2022-08-07",
@@ -124,7 +120,7 @@ const writeReadme = async (list) => {
     let flag = index + 1;
 
     // const data = `![](https://cdn.jsdelivr.net/gh/exposir/bing-wallpaper-node@main/${item.filePreviewUrl})<br> ${item.date} [4K 版本](https://cdn.jsdelivr.net/gh/exposir/bing-wallpaper-node@main/${item.file4kUrl}) <br> ${item.chinesePreviewTitle}`;
-    const data = `![](${item.filePreviewUrl})<br> ${item.date} [4K 版本]({item.file4kUrl}) <br> ${item.chinesePreviewTitle}`;
+    const data = `![](${item.filePreviewUrl})<br> ${item.date} [4K 版本]({item.file4kUrl}) <br> ${item.chineseTitle}`;
 
     if (flag % 3 === 0) {
       newArr.push(`|${data}|\n`);
