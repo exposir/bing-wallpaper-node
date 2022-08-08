@@ -123,9 +123,7 @@ const writeReadme = async (list) => {
   list.forEach((item, index) => {
     let flag = index + 1;
 
-    const data = `![](https://cdn.jsdelivr.net/gh/exposir/bing-wallpaper-node@main/${item.filePreviewUrl})
-     <br> ${item.date} [4K 版本](https://cdn.jsdelivr.net/gh/exposir/bing-wallpaper-node@main/${item.file4kUrl}) 
-     <br> ${item.chinesePreviewTitle}`;
+    const data = `![](https://cdn.jsdelivr.net/gh/exposir/bing-wallpaper-node@main/${item.filePreviewUrl})<br> ${item.date} [4K 版本](https://cdn.jsdelivr.net/gh/exposir/bing-wallpaper-node@main/${item.file4kUrl}) <br> ${item.chinesePreviewTitle}`;
 
     if (flag % 3 === 0) {
       newArr.push(`|${data}|\n`);
