@@ -68,19 +68,6 @@ async function init() {
     await download(bing4kUrl, file4kUrl, `${date}-4k`);
     await download(bingPreviewUrl, filePreviewUrl, `${date}-preview`);
 
-    // {
-    //   date: "2022-08-07",
-    //   file4kUrl: "./static/杭州西湖的古典中国园林4K.jpg",
-    //   filePreviewUrl: "./static/杭州西湖的古典中国园林preview.jpg",
-    //   bing4kUrl:
-    //     "https://cn.bing.com//th?id=OHR.theBeginningofAutumn2022_ZH-CN9413449297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp",
-    //   bingPreview:
-    //     "https://cn.bing.com//th?id=OHR.theBeginningofAutumn2022_ZH-CN9413449297_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=480&h=270",
-    //   chineseTitle: "贴秋膘了吗？",
-    //   chineseCopyright: "杭州西湖的古典中国园林 (© DANNY HU/Getty Images)",
-    //   chinesePreviewTitle: "杭州西湖的古典中国园林",
-    // },
-
     const newData = {
       date,
       file4kUrl,
@@ -106,6 +93,7 @@ async function init() {
           return console.error(err);
         }
         writeReadme(b);
+        writeIndex(b);
       });
     });
   } catch (e) {
@@ -136,8 +124,6 @@ const writeReadme = async (list) => {
 
   let a = newArr.join("");
 
-  console.log(a);
-
   arr.push(a);
 
   console.log("准备写入文件");
@@ -146,14 +132,57 @@ const writeReadme = async (list) => {
     if (err) {
       return console.error(err);
     }
-    // const result = data.toString();
-    // console.log("异步读取文件数据: " + result);
 
     fs.writeFile("README.md", arr.join(""), function (err) {
       if (err) {
         return console.error(err);
       }
       fs.readFile("README.md", function (err, data) {
+        if (err) {
+          return console.error(err);
+        }
+        console.log("异步读取文件数据: " + data.toString());
+      });
+    });
+  });
+};
+
+const writeIndex = async (list) => {
+  const arr = [`|     |     |     | \n`, `|:---:|:---:|:---:| \n`];
+  const newArr = [];
+  list.forEach((item, index) => {
+    let flag = index + 1;
+
+    const data = `![](.${item.filePreviewUrl})<br> ${item.date} [4K 版本](.${item.file4kUrl}) <br> ${item.chineseTitle}`;
+
+    if (flag % 3 === 0) {
+      newArr.push(`|${data}|\n`);
+      const result = newArr.join("");
+      arr.push(result);
+      newArr.length = 0;
+    } else {
+      newArr.push(`|${data}`);
+    }
+
+    console.log(newArr);
+  });
+
+  let a = newArr.join("");
+
+  arr.push(a);
+
+  console.log("准备写入文件");
+
+  fs.readFile("./docs/index.md", function (err, data) {
+    if (err) {
+      return console.error(err);
+    }
+
+    fs.writeFile("./docs/index.md", arr.join(""), function (err) {
+      if (err) {
+        return console.error(err);
+      }
+      fs.readFile("./docs/index.md", function (err, data) {
         if (err) {
           return console.error(err);
         }
