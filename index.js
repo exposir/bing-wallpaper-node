@@ -92,9 +92,9 @@ async function init() {
         if (err) {
           return console.error(err);
         }
-        writeReadme(b);
-        writeIndex(b);
       });
+      writeReadme(b);
+      writeIndex(b);
     });
   } catch (e) {
     console.log("err", e);
@@ -147,12 +147,10 @@ const writeReadme = async (list) => {
   });
 };
 
-const writeIndex = async () => {
-  console.log(BeforeMap);
-
+const writeIndex = async (b) => {
   const arr = [];
 
-  BeforeMap.forEach((item) => {
+  b.forEach((item) => {
     console.log(item);
     arr.push(`## ${item.date} ${item.chineseTitle} \n\n`);
     arr.push(`${item.chineseCopyright} \n\n`);
