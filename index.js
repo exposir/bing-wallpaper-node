@@ -147,47 +147,28 @@ const writeReadme = async (list) => {
   });
 };
 
-const writeIndex = async (list) => {
-  const arr = [`|     |     |     | \n`, `|:---:|:---:|:---:| \n`];
-  const newArr = [];
-  list.forEach((item, index) => {
-    let flag = index + 1;
+const writeIndex = async () => {
+  console.log(BeforeMap);
 
-    const data = `![](.${item.filePreviewUrl})<br> ${item.date} [4K 版本](.${item.file4kUrl}) <br> ${item.chineseTitle}`;
+  const arr = [];
 
-    if (flag % 3 === 0) {
-      newArr.push(`|${data}|\n`);
-      const result = newArr.join("");
-      arr.push(result);
-      newArr.length = 0;
-    } else {
-      newArr.push(`|${data}`);
-    }
-
-    console.log(newArr);
+  BeforeMap.forEach((item) => {
+    console.log(item);
+    arr.push(`## ${item.date} ${item.chineseTitle} \n\n`);
+    arr.push(`${item.chineseCopyright} \n\n`);
+    arr.push(`![](.${item.file4kUrl}) \n\n`);
   });
+  const newData = arr.join("");
 
-  let a = newArr.join("");
-
-  arr.push(a);
-
-  console.log("准备写入文件");
-
-  fs.readFile("./docs/index.md", function (err, data) {
+  fs.writeFile("./docs/index.md", newData, function (err) {
     if (err) {
       return console.error(err);
     }
-
-    fs.writeFile("./docs/index.md", arr.join(""), function (err) {
+    fs.readFile("./docs/index.md", function (err, data) {
       if (err) {
         return console.error(err);
       }
-      fs.readFile("./docs/index.md", function (err, data) {
-        if (err) {
-          return console.error(err);
-        }
-        console.log("异步读取文件数据: " + data.toString());
-      });
+      console.log("异步读取文件数据: " + data.toString());
     });
   });
 };
