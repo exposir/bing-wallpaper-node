@@ -1,3 +1,15 @@
+## 2022-8-10 沙漠中的匕首？ 
+
+约书亚树，加利福尼亚州约书亚树国家公园 (© Tim Fitzharris/Minden Pictures) 
+
+![](../static/2022-8-10-4k.jpg) 
+
+## 2022-8-10 沙漠中的匕首？ 
+
+约书亚树，加利福尼亚州约书亚树国家公园 (© Tim Fitzharris/Minden Pictures) 
+
+![](../static/2022-8-10-4k.jpg) 
+
 ## 2022-8-9 9000年前的手印 
 
 阿根廷圣克鲁斯的洛斯马诺斯洞穴 (© Adwo/Alamy) 
