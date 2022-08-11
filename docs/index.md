@@ -1,3 +1,9 @@
+## 2022-8-11 如果可以的话，请拥抱一座山吧 
+
+日本长野县安昙野附近的燕岳山 (© Joshua Hawley/Getty Images) 
+
+![](../static/2022-8-11-4k.jpg) 
+
 ## 2022-8-10 沙漠中的匕首？ 
 
 约书亚树，加利福尼亚州约书亚树国家公园 (© Tim Fitzharris/Minden Pictures) 
