@@ -1,3 +1,9 @@
+## 2022-8-12 家庭出游 
+
+安博塞利国家公园里的非洲象群，肯尼亚 (© Susan Portnoy/Shutterstock) 
+
+![](../static/2022-8-12-4k.jpg) 
+
 ## 2022-8-11 如果可以的话，请拥抱一座山吧 
 
 日本长野县安昙野附近的燕岳山 (© Joshua Hawley/Getty Images) 
