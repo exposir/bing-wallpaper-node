@@ -1,10 +1,10 @@
-let fs = require("fs");
-const fsPromises = require("fs").promises;
-// let request = require("request");
-let path = require("path");
-// const request = require("request-promise");
+const fs = require("fs");
 const fetch = require("node-fetch");
-const BeforeMap = require("./map.json");
+
+// const fsPromises = require("fs").promises;
+// let request = require("request");
+// let path = require("path");
+// const request = require("request-promise");
 
 async function init() {
   try {
