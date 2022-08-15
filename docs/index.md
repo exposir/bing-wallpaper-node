@@ -1,3 +1,9 @@
+## 2022-8-15 古代中世纪城堡 
+
+奇陶尔加尔堡，印度 (© Anand Purohit/Getty Images) 
+
+![](../static/2022-8-15-4k.jpg) 
+
 ## 2022-8-14 捉迷藏世界冠军 
 
 琥珀山国家公园里的豹变色龙，马达加斯加 (© Christian Ziegler/Minden Pictures) 
