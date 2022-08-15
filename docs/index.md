@@ -1,3 +1,9 @@
+## 2022-8-15 惊险之旅 
+
+夕阳下的大白鲨过山车，美国新泽西州 (© John Van Decker/Alamy) 
+
+![](../static/2022-8-15-4k.jpg) 
+
 ## 2022-8-15 古代中世纪城堡 
 
 奇陶尔加尔堡，印度 (© Anand Purohit/Getty Images) 
