@@ -1,3 +1,15 @@
+## 2022-8-14 捉迷藏世界冠军 
+
+琥珀山国家公园里的豹变色龙，马达加斯加 (© Christian Ziegler/Minden Pictures) 
+
+![](../static/2022-8-14-4k.jpg) 
+
+## 2022-8-13 一颗值得的心 
+
+阿斯佩山谷中的蒙塔尼翁湖，法国 (© thieury/Adobe photo stock) 
+
+![](../static/2022-8-13-4k.jpg) 
+
 ## 2022-8-12 家庭出游 
 
 安博塞利国家公园里的非洲象群，肯尼亚 (© Susan Portnoy/Shutterstock) 
