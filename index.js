@@ -35,7 +35,6 @@ async function init() {
     const bingJson = await bing.json();
     const { images = [] } = bingJson;
     let { url, title, copyright } = images[0] || {};
-    url = url.split("1920x1080").join("UHD");
 
     const chineseCopyright = copyright;
     const chinesePreviewTitle = copyright.split("(")[0].trim();
@@ -50,6 +49,10 @@ async function init() {
     console.log(time.getHours());
 
     console.log("date", date);
+
+    const bing1080Url = `https://cn.bing.com/${url}`;
+
+    url = url.split("1920x1080").join("UHD");
 
     const bing4kUrl = `https://cn.bing.com/${url}`;
     const bingPreviewUrl = `https://cn.bing.com/${url}&w=480&h=270`;
@@ -74,6 +77,7 @@ async function init() {
       filePreviewUrl,
       bing4kUrl,
       bingPreviewUrl,
+      bing1080Url,
       chineseTitle,
       chineseCopyright,
       chinesePreviewTitle,
@@ -154,7 +158,7 @@ const writeIndex = async (b) => {
     console.log(item);
     arr.push(`## ${item.date} ${item.chineseTitle} \n\n`);
     arr.push(`${item.chineseCopyright} \n\n`);
-    arr.push(`![](.${item.file4kUrl}) \n\n`);
+    arr.push(`![](${item.bing1080Url}) \n\n`);
   });
   const newData = arr.join("");
 
