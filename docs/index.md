@@ -1,3 +1,9 @@
+## 2022-8-17 如此清澈，如此洁净 
+
+大自然的水族馆中的水下景观，巴西 (© Michel Roggo/Minden Pictures) 
+
+![](https://cn.bing.com//th?id=OHR.AquarioNatural_ZH-CN3886634374_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-8-16 惊险之旅 
 
 夕阳下的大白鲨过山车，美国新泽西州 (© John Van Decker/Alamy) 
