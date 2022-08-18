@@ -1,3 +1,9 @@
+## 2022-8-18 世界最臭食物之乡？ 
+
+哥德堡群岛的岸边，瑞典 (© Martin Wahlborg/Getty Images) 
+
+![](https://cn.bing.com//th?id=OHR.SourHerring_ZH-CN4136738467_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-8-17 如此清澈，如此洁净 
 
 大自然的水族馆中的水下景观，巴西 (© Michel Roggo/Minden Pictures) 
