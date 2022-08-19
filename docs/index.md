@@ -1,3 +1,9 @@
+## 2022-8-19 彭赞斯全景 
+
+康沃尔郡的彭赞斯，英国 (© Murray Bosley Photography/Getty Images) 
+
+![](https://cn.bing.com//th?id=OHR.PenzancePool_ZH-CN4493022613_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-8-18 世界最臭食物之乡？ 
 
 哥德堡群岛的岸边，瑞典 (© Martin Wahlborg/Getty Images) 
