@@ -1,3 +1,9 @@
+## 2022-8-20 保护蜜蜂、赞美蜜蜂 
+
+西班牙阿斯图里亚斯省穆涅略斯自然保护区的蜂箱 (© ABB Photo/Shutterstock) 
+
+![](https://cn.bing.com//th?id=OHR.BearProof_ZH-CN4950171791_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-8-19 彭赞斯全景 
 
 康沃尔郡的彭赞斯，英国 (© Murray Bosley Photography/Getty Images) 
