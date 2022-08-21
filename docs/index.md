@@ -1,3 +1,9 @@
+## 2022-8-21 死亡海岸 
+
+加利西亚省科斯塔达莫尔特的灯塔，西班牙 (© Carlos Fernandez/Getty Images) 
+
+![](https://cn.bing.com//th?id=OHR.CostadaMorte_ZH-CN5219249535_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-8-20 保护蜜蜂、赞美蜜蜂 
 
 西班牙阿斯图里亚斯省穆涅略斯自然保护区的蜂箱 (© ABB Photo/Shutterstock) 
