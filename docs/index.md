@@ -1,3 +1,9 @@
+## 2022-8-22 猫头鹰界的叛逆小鸟 
+
+南佛罗里达的一只穴小鸮雏鸟和一只成年穴小鸮，美国 (© Carlos Carreno/Getty Images) 
+
+![](https://cn.bing.com//th?id=OHR.TenderMoment_ZH-CN5447705408_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-8-21 死亡海岸 
 
 加利西亚省科斯塔达莫尔特的灯塔，西班牙 (© Carlos Fernandez/Getty Images) 
