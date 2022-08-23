@@ -1,3 +1,9 @@
+## 2022-8-23 到了芒通，就来点柠檬汁吧 
+
+芒通，法国 (© Flavio Foglietta/Getty Images) 
+
+![](https://cn.bing.com//th?id=OHR.MentonFrance_ZH-CN5849270429_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-8-22 猫头鹰界的叛逆小鸟 
 
 南佛罗里达的一只穴小鸮雏鸟和一只成年穴小鸮，美国 (© Carlos Carreno/Getty Images) 
