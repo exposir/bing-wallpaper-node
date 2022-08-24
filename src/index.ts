@@ -1,34 +1,9 @@
-const fs = require("fs");
-const fetch = require("node-fetch");
+import fetch from "node-fetch"
+import { readFile, writeFile } from "fs";
 
-// const fsPromises = require("fs").promises;
-// let request = require("request");
-// let path = require("path");
-// const request = require("request-promise");
 
 async function init() {
   try {
-    //同步
-    // const downloadImage = async (src, dest, callback) => {
-    //   return request.head(src, (err, res, body) => {
-    //     if (err) {
-    //       console.log(err);
-    //       return;
-    //     }
-    //     if (src) {
-    //       request(src)
-    //         .pipe(fs.createWriteStream(dest))
-    //         .on("close", () => {
-    //           callback && callback(null, dest);
-    //         });
-    //     }
-    //   });
-    // };
-
-    //存储图片失败
-    // let response = await request(bing4kUrl);
-    // fsPromises.writeFile("./1.txt", response, "binary", function (err) {});
-
     const bing = await fetch(
       "https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=zh-CN"
     );
@@ -63,7 +38,7 @@ async function init() {
     async function download(url, file, name) {
       const response = await fetch(url);
       const buffer = await response.buffer();
-      fs.writeFile(file, buffer, () =>
+      writeFile(file, buffer, () =>
         console.log(`finished downloading! ${name}`)
       );
     }
@@ -82,17 +57,15 @@ async function init() {
       chineseCopyright,
       chinesePreviewTitle,
     };
-    // console.log(newData);
 
     console.log("成功");
 
-    fs.readFile("./map.json", function (err, data) {
+    readFile("./map.json", function (err, data) {
       const a = data.toString();
-      b = JSON.parse(a);
+      const b = JSON.parse(a);
       b.unshift(newData);
-      console.log(b);
 
-      fs.writeFile("./map.json", JSON.stringify(b), function (err) {
+      writeFile("./map.json", JSON.stringify(b), function (err) {
         if (err) {
           return console.error(err);
         }
@@ -105,10 +78,10 @@ async function init() {
   }
 }
 
-const writeReadme = async (list) => {
+const writeReadme = async (list: any) => {
   const arr = [`|     |     |     | \n`, `|:---:|:---:|:---:| \n`];
-  const newArr = [];
-  list.forEach((item, index) => {
+  const newArr: string[] = []
+  list.forEach((item: any, index: any) => {
     let flag = index + 1;
 
     // const data = `![](https://cdn.jsdelivr.net/gh/exposir/bing-wallpaper-node@main/${item.filePreviewUrl})<br> ${item.date} [4K 版本](https://cdn.jsdelivr.net/gh/exposir/bing-wallpaper-node@main/${item.file4kUrl}) <br> ${item.chinesePreviewTitle}`;
@@ -132,16 +105,16 @@ const writeReadme = async (list) => {
 
   console.log("准备写入文件");
 
-  fs.readFile("README.md", function (err, data) {
+  readFile("README.md", function (err, data) {
     if (err) {
       return console.error(err);
     }
 
-    fs.writeFile("README.md", arr.join(""), function (err) {
+    writeFile("README.md", arr.join(""), function (err) {
       if (err) {
         return console.error(err);
       }
-      fs.readFile("README.md", function (err, data) {
+      readFile("README.md", function (err, data) {
         if (err) {
           return console.error(err);
         }
@@ -151,10 +124,10 @@ const writeReadme = async (list) => {
   });
 };
 
-const writeIndex = async (b) => {
-  const arr = [];
+const writeIndex = async (b: any) => {
+  const arr: string[] = [];
 
-  b.forEach((item) => {
+  b.forEach((item: any) => {
     console.log(item);
     arr.push(`## ${item.date} ${item.chineseTitle} \n\n`);
     arr.push(`${item.chineseCopyright} \n\n`);
@@ -162,11 +135,11 @@ const writeIndex = async (b) => {
   });
   const newData = arr.join("");
 
-  fs.writeFile("./docs/index.md", newData, function (err) {
+  writeFile("./docs/index.md", newData, function (err) {
     if (err) {
       return console.error(err);
     }
-    fs.readFile("./docs/index.md", function (err, data) {
+    readFile("./docs/index.md", function (err, data) {
       if (err) {
         return console.error(err);
       }

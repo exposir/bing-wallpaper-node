@@ -2,9 +2,9 @@
   "name": "bing-wallpaper-node",
   "version": "1.0.0",
   "description": "auto download bing picture",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
-    "build": "node index.js",
+    "build": "tsc && node lib/index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "ddev": "vitepress dev docs",
     "dbuild": "vitepress build docs",

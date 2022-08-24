@@ -1,3 +1,15 @@
+## 2022-8-24 里约热内卢的象征 
+
+格洛里亚附近的码头和糖面包山，巴西里约热内卢 (© f11photo/Getty Images) 
+
+![](https://cn.bing.com//th?id=OHR.MarinaDaGloria_ZH-CN6894795645_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
+## 2022-8-24 里约热内卢的象征 
+
+格洛里亚附近的码头和糖面包山，巴西里约热内卢 (© f11photo/Getty Images) 
+
+![](https://cn.bing.com//th?id=OHR.MarinaDaGloria_ZH-CN6894795645_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-8-23 到了芒通，就来点柠檬汁吧 
 
 芒通，法国 (© Flavio Foglietta/Getty Images) 
