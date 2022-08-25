@@ -1,3 +1,9 @@
+## 2022-8-25 令人惊叹的后花园 
+
+华盛顿州北瀑布国家公园，美国 (© Ethan Welty/Tandem Stills + Motion) 
+
+![](https://cn.bing.com//th?id=OHR.CascadesNP_ZH-CN1830542356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-8-24 里约热内卢的象征 
 
 格洛里亚附近的码头和糖面包山，巴西里约热内卢 (© f11photo/Getty Images) 
