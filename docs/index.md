@@ -1,3 +1,9 @@
+## 2022-8-26 既有风，又有水 
+
+克罗地亚佩列沙茨半岛附近的风筝冲浪者和风帆冲浪者 (© helivideo/Getty Images) 
+
+![](https://cn.bing.com//th?id=OHR.PeljesacWind_ZH-CN9299214248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-8-25 令人惊叹的后花园 
 
 华盛顿州北瀑布国家公园，美国 (© Ethan Welty/Tandem Stills + Motion) 
