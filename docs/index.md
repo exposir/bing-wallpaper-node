@@ -1,3 +1,9 @@
+## 2022-8-27 40年的休养生息 
+
+圣海伦斯山国家火山纪念区的边界小径，美国华盛顿州 (© Don Geyer/Alamy) 
+
+![](https://cn.bing.com//th?id=OHR.MSHV_ZH-CN9630204701_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-8-26 既有风，又有水 
 
 克罗地亚佩列沙茨半岛附近的风筝冲浪者和风帆冲浪者 (© helivideo/Getty Images) 
