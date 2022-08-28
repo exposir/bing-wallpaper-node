@@ -1,3 +1,9 @@
+## 2022-8-28 这鸟长着小胡子 
+
+荷兰弗莱福兰湿地的文须雀 (© Gert-Jan IJzerman/Minden Pictures) 
+
+![](https://cn.bing.com//th?id=OHR.BeardedTit_ZH-CN0065279700_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-8-27 40年的休养生息 
 
 圣海伦斯山国家火山纪念区的边界小径，美国华盛顿州 (© Don Geyer/Alamy) 
