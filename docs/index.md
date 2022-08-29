@@ -1,3 +1,9 @@
+## 2022-8-29 像湖一样的大海 
+
+爱沙尼亚波罗的海 (© fotoman-kharkov/Getty Images) 
+
+![](https://cn.bing.com//th?id=OHR.EstoniaBaltic_ZH-CN0314555299_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-8-28 这鸟长着小胡子 
 
 荷兰弗莱福兰湿地的文须雀 (© Gert-Jan IJzerman/Minden Pictures) 
