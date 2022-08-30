@@ -1,3 +1,9 @@
+## 2022-8-30 比萨不仅有斜塔 
+
+米利亚里诺自然公园，圣罗索尔，意大利马萨西犹可利 (© Stefano Valeri/Alamy) 
+
+![](https://cn.bing.com//th?id=OHR.Migliarino_ZH-CN0744250844_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-8-29 像湖一样的大海 
 
 爱沙尼亚波罗的海 (© fotoman-kharkov/Getty Images) 
