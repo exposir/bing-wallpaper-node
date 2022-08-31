@@ -1,3 +1,9 @@
+## 2022-8-31 漂在海里的蓝色星星 
+
+新爱尔兰岛上的蓝指海星，巴布亚新几内亚 (© Jurgen Freund/Minden Pictures) 
+
+![](https://cn.bing.com//th?id=OHR.BlueLinckia_ZH-CN1103817183_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-8-30 比萨不仅有斜塔 
 
 米利亚里诺自然公园，圣罗索尔，意大利马萨西犹可利 (© Stefano Valeri/Alamy) 
