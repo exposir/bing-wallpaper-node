@@ -1,3 +1,9 @@
+## 2022-9-2 这个神奇的海滩值得一游 
+
+克里特岛上的海滩，希腊 (© Georgios Tsichlis/Alamy) 
+
+![](https://cn.bing.com//th?id=OHR.SeitanLimania_ZH-CN3831790369_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-9-1 谁在使用这座绿草如茵的桥？ 
 
 维尔登的野生动物通道，荷兰 (© Frans Lemmens/Alamy) 
