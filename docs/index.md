@@ -1,3 +1,9 @@
+## 2022-9-3 一双高耸入云的摩天大楼 
+
+吉隆坡石油双塔，马来西亚 (© tampatra/Getty Images) 
+
+![](https://cn.bing.com//th?id=OHR.MalaysiaTwinTowers_ZH-CN1989513449_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-9-2 这个神奇的海滩值得一游 
 
 克里特岛上的海滩，希腊 (© Georgios Tsichlis/Alamy) 
