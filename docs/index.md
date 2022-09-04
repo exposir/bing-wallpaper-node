@@ -1,3 +1,9 @@
+## 2022-9-4 印度的里维埃拉 
+
+果阿邦的阿兰博尔海滩，印度 (© Ben Pipe/Alamy) 
+
+![](https://cn.bing.com//th?id=OHR.ArambolBeach_ZH-CN2149857876_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-9-3 一双高耸入云的摩天大楼 
 
 吉隆坡石油双塔，马来西亚 (© tampatra/Getty Images) 
