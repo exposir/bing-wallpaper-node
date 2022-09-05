@@ -1,3 +1,9 @@
+## 2022-9-5 一次偏远的旅途 
+
+北魁北克的公路，加拿大 (© Posnov/Getty Images) 
+
+![](https://cn.bing.com//th?id=OHR.TaigaRoad_ZH-CN2567537158_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-9-4 印度的里维埃拉 
 
 果阿邦的阿兰博尔海滩，印度 (© Ben Pipe/Alamy) 
