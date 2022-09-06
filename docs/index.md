@@ -1,3 +1,9 @@
+## 2022-9-6 一只有趣的小家伙 
+
+叼着蘑菇的红松鼠 (© Michael Quinton/Minden Pictures) 
+
+![](https://cn.bing.com//th?id=OHR.SquirrelMushroom_ZH-CN2854383605_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-9-5 一次偏远的旅途 
 
 北魁北克的公路，加拿大 (© Posnov/Getty Images) 
