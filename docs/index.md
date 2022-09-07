@@ -1,3 +1,9 @@
+## 2022-9-7 看起来很锋利的岩石 
+
+英格兰怀特岛上的尼德尔斯白垩岩石和19世纪的灯塔。 (© CBCK Christine/iStock/Getty Images Plus) 
+
+![](https://cn.bing.com//th?id=OHR.TheNeedles_ZH-CN6578835963_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-9-6 一只有趣的小家伙 
 
 叼着蘑菇的红松鼠 (© Michael Quinton/Minden Pictures) 
