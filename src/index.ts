@@ -79,7 +79,20 @@ async function init() {
 }
 
 const writeReadme = async (list: any) => {
-  const arr = [`|     |     |     | \n`, `|:---:|:---:|:---:| \n`];
+
+  const today = list[0]
+  const { date, chineseTitle, bingPreviewUrl, file4kUrl } = today
+
+
+  const arr: string[] = [];
+
+  arr.push(`# Bing Wallpapers  \n\n`)
+  arr.push(`### ${date} ${chineseTitle}  \n\n`)
+  arr.push(`![4k版本](${file4kUrl})  \n\n`)
+  arr.push(`|     |     |     | \n`)
+  arr.push(`|:---:|:---:|:---:| \n`)
+
+
   const newArr: string[] = []
   list.forEach((item: any, index: any) => {
     let flag = index + 1;
