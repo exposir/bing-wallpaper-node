@@ -6,9 +6,9 @@
   "scripts": {
     "build": "tsc && node lib/index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "ddev": "vitepress dev docs",
-    "dbuild": "vitepress build docs",
-    "dserve": "vitepress serve docs",
+    "dev": "vitepress dev docs",
+    "vbuild": "vitepress build docs",
+    "vserve": "vitepress serve docs",
     "tsc": "tsc"
   },
   "repository": {

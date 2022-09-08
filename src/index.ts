@@ -129,8 +129,8 @@ const writeIndex = async (b: any) => {
 
   b.forEach((item: any) => {
     console.log(item);
-    arr.push(`## ${item.date} ${item.chineseTitle} \n\n`);
-    arr.push(`${item.chineseCopyright} [4k Edition](${item.bing4kUrl})  \n\n`);
+    arr.push(`## ${item.date} ${item.chineseTitle} [4k Edition](${item.bing4kUrl})  \n\n`);
+    arr.push(`${item.chineseCopyright}  \n\n`);
     arr.push(`![](${item.bing1080Url}) \n\n`);
   });
   const newData = arr.join("");

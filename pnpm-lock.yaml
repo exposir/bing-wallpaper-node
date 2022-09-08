@@ -1,16 +1,20 @@
 lockfileVersion: 5.4
 
 specifiers:
+  '@types/node': ^18.7.11
   node-fetch: 2.6.1
   request: ^2.88.2
   request-promise: ^4.2.6
+  typescript: ^4.7.4
   vitepress: ^1.0.0-alpha.4
   vue: ^3.2.37
 
 dependencies:
+  '@types/node': 18.7.16
   node-fetch: 2.6.1
   request: 2.88.2
   request-promise: 4.2.6_request@2.88.2
+  typescript: 4.8.2
 
 devDependencies:
   vitepress: 1.0.0-alpha.4
@@ -194,6 +198,10 @@ packages:
     requiresBuild: true
     dev: true
     optional: true
+
+  /@types/node/18.7.16:
+    resolution: {integrity: sha512-EQHhixfu+mkqHMZl1R2Ovuvn47PUw18azMJOTwSZr9/fhzHNGXAJ0ma0dayRVchprpCj0Kc1K1xKoWaATWF1qg==}
+    dev: false
 
   /@types/web-bluetooth/0.0.14:
     resolution: {integrity: sha512-5d2RhCard1nQUC3aHcq/gHzWYO6K0WJmAbjO7mQJgCQKtZpgXxv1rOM6O/dBDhDYYVutk1sciOgNSe+5YyfM8A==}
@@ -993,6 +1001,12 @@ packages:
 
   /tweetnacl/0.14.5:
     resolution: {integrity: sha512-KXXFFdAbFXY4geFIwoyNK+f5Z1b7swfXABfL7HXCmoIWMKU3dmS26672A4EeQtDzLKy7SXmfBu51JolvEKwtGA==}
+    dev: false
+
+  /typescript/4.8.2:
+    resolution: {integrity: sha512-C0I1UsrrDHo2fYI5oaCGbSejwX4ch+9Y5jTQELvovfmFkK3HHSZJB8MSJcWLmCUBzQBchCrZ9rMRV6GuNrvGtw==}
+    engines: {node: '>=4.2.0'}
+    hasBin: true
     dev: false
 
   /uri-js/4.4.1:
