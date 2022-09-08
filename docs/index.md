@@ -4,6 +4,12 @@
 
 ![](https://cn.bing.com//th?id=OHR.CircumnavigationAnni_ZH-CN6835512993_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
 
+## 2022-9-8 500年前，是谁回到了这座城市？ [4k Edition](https://cn.bing.com//th?id=OHR.CircumnavigationAnni_ZH-CN6835512993_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+从塞维利亚的都市阳伞俯瞰城市，西班牙 (© LucVi/Shutterstock)  
+
+![](https://cn.bing.com//th?id=OHR.CircumnavigationAnni_ZH-CN6835512993_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-9-7 看起来很锋利的岩石 [4k Edition](https://cn.bing.com//th?id=OHR.TheNeedles_ZH-CN6578835963_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
 
 英格兰怀特岛上的尼德尔斯白垩岩石和19世纪的灯塔。 (© CBCK Christine/iStock/Getty Images Plus)  
