@@ -81,12 +81,12 @@ async function init() {
 const writeReadme = async (list: any) => {
 
   const today = list[0]
-  const { date, chineseTitle, bingPreviewUrl, file4kUrl } = today
+  const { date, chineseTitle, file4kUrl } = today
 
 
   const arr: string[] = [];
 
-  arr.push(`# Bing Wallpapers  \n\n`)
+  arr.push(`# [Bing Wallpapers](https://bing-wallpapers.vercel.app)  \n\n`)
   arr.push(`### ${date} ${chineseTitle}  \n\n`)
   arr.push(`![4k版本](${file4kUrl})  \n\n`)
   arr.push(`|     |     |     | \n`)
@@ -95,21 +95,22 @@ const writeReadme = async (list: any) => {
 
   const newArr: string[] = []
   list.forEach((item: any, index: any) => {
-    let flag = index + 1;
+    if (index !== 0) {
+      // const data = `![](https://cdn.jsdelivr.net/gh/exposir/bing-wallpaper-node@main/${item.filePreviewUrl})<br> ${item.date} [4K 版本](https://cdn.jsdelivr.net/gh/exposir/bing-wallpaper-node@main/${item.file4kUrl}) <br> ${item.chinesePreviewTitle}`;
+      const data = `![](${item.filePreviewUrl})<br> ${item.date} [4K 版本](${item.file4kUrl}) <br> ${item.chineseTitle}`;
 
-    // const data = `![](https://cdn.jsdelivr.net/gh/exposir/bing-wallpaper-node@main/${item.filePreviewUrl})<br> ${item.date} [4K 版本](https://cdn.jsdelivr.net/gh/exposir/bing-wallpaper-node@main/${item.file4kUrl}) <br> ${item.chinesePreviewTitle}`;
-    const data = `![](${item.filePreviewUrl})<br> ${item.date} [4K 版本](${item.file4kUrl}) <br> ${item.chineseTitle}`;
+      if (index % 3 === 0) {
+        newArr.push(`|${data}|\n`);
+        const result = newArr.join("");
+        arr.push(result);
+        newArr.length = 0;
+      } else {
+        newArr.push(`|${data}`);
+      }
 
-    if (flag % 3 === 0) {
-      newArr.push(`|${data}|\n`);
-      const result = newArr.join("");
-      arr.push(result);
-      newArr.length = 0;
-    } else {
-      newArr.push(`|${data}`);
+      console.log(newArr);
     }
 
-    console.log(newArr);
   });
 
   let a = newArr.join("");
