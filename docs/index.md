@@ -1,3 +1,9 @@
+## 2022-9-11 椰林国 [4k Edition](https://cn.bing.com//th?id=OHR.KeralaIndia_ZH-CN0125201857_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+在喀拉拉邦河流中行驶的一艘小船，印度 (© Shutterstock)  
+
+![](https://cn.bing.com//th?id=OHR.KeralaIndia_ZH-CN0125201857_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-9-10 海上生明月，天涯共此时 [4k Edition](https://cn.bing.com//th?id=OHR.MidAutumn2022_ZH-CN9825550508_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
 
 中秋之夜, 上海豫园 (© Zyxeos30/Getty images)  
