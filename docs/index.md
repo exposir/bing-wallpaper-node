@@ -1,3 +1,9 @@
+## 2022-9-12 一种巨嘴鸟 [4k Edition](https://cn.bing.com//th?id=OHR.Aracari_ZH-CN0383753817_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+栗耳簇舌巨嘴鸟，巴西潘塔纳尔保护区里 (© Ana Gram/Shutterstock)  
+
+![](https://cn.bing.com//th?id=OHR.Aracari_ZH-CN0383753817_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-9-11 椰林国 [4k Edition](https://cn.bing.com//th?id=OHR.KeralaIndia_ZH-CN0125201857_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
 
 在喀拉拉邦河流中行驶的一艘小船，印度 (© Shutterstock)  
