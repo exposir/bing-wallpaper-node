@@ -1,3 +1,9 @@
+## 2022-9-13 如沙漏中的沙子一般 [4k Edition](https://cn.bing.com//th?id=OHR.GSDNPest_ZH-CN0818304791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+大沙丘国家公园和保护区，美国科罗拉多州 (© Y Paudel/Getty Images)  
+
+![](https://cn.bing.com//th?id=OHR.GSDNPest_ZH-CN0818304791_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-9-12 一种巨嘴鸟 [4k Edition](https://cn.bing.com//th?id=OHR.Aracari_ZH-CN0383753817_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
 
 栗耳簇舌巨嘴鸟，巴西潘塔纳尔保护区里 (© Ana Gram/Shutterstock)  
