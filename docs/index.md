@@ -1,3 +1,9 @@
+## 2022-9-14 横跨峡谷裂缝的两座桥  
+
+大理石峡谷中横跨科罗拉多河的纳瓦霍桥，美国亚利桑那州北部  (© trekandshoot/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.MarbleCanyon_ZH-CN1066862981_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.MarbleCanyon_ZH-CN1066862981_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-9-13 如沙漏中的沙子一般  
 
 大沙丘国家公园和保护区，美国科罗拉多州 (© Y Paudel/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.GSDNPest_ZH-CN0818304791_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
