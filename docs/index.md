@@ -1,3 +1,9 @@
+## 2022-9-15 从天而降的魔法  
+
+罗兰豁口上空的银河，法国上比利牛斯省 (© SPANI Arnaud/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.PyreneesPark_ZH-CN1341030921_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.PyreneesPark_ZH-CN1341030921_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-9-14 横跨峡谷裂缝的两座桥  
 
 大理石峡谷中横跨科罗拉多河的纳瓦霍桥，美国亚利桑那州北部  (© trekandshoot/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.MarbleCanyon_ZH-CN1066862981_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
