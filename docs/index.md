@@ -1,3 +1,9 @@
+## 2022-9-16 敏捷而隐秘  
+
+百内国家公园中的一头美洲狮，智利巴塔哥尼亚 (© Ingo Arndt/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.PianePuma_ZH-CN1482049046_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.PianePuma_ZH-CN1482049046_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-9-15 从天而降的魔法  
 
 罗兰豁口上空的银河，法国上比利牛斯省 (© SPANI Arnaud/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.PyreneesPark_ZH-CN1341030921_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
