@@ -1,3 +1,9 @@
+## 2022-9-18 沉浸在大自然中  
+
+幽鹤国家公园的翡翠湖, 加拿大不列颠哥伦比亚省 (© Cavan Images/Offset) [4k Edition](https://cn.bing.com//th?id=OHR.EmeraldYoho_ZH-CN4524610330_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.EmeraldYoho_ZH-CN4524610330_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-9-17 布莱克浦的灯光太棒了  
 
 布莱克浦塔和中央码头，英国兰开夏郡 (© Bailey-Cooper Photography/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.BlackpoolBeach_ZH-CN2646268897_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
