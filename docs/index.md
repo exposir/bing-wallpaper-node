@@ -1,3 +1,9 @@
+## 2022-9-19 山峦间的光辉之城  
+
+巴斯利卡塔的卡斯泰尔梅扎诺村，意大利 (© Roberto Moiola/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.SanMartinoVillage_ZH-CN4623104087_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.SanMartinoVillage_ZH-CN4623104087_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-9-18 沉浸在大自然中  
 
 幽鹤国家公园的翡翠湖, 加拿大不列颠哥伦比亚省 (© Cavan Images/Offset) [4k Edition](https://cn.bing.com//th?id=OHR.EmeraldYoho_ZH-CN4524610330_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
