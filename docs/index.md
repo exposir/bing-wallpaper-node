@@ -1,3 +1,9 @@
+## 2022-9-20 海上泰迪熊  
+
+阿拉斯加州锡特卡海峡的海獭，美国 (© Robert Harding/Offset/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.SitkaOtters_ZH-CN4715326633_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.SitkaOtters_ZH-CN4715326633_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-9-19 山峦间的光辉之城  
 
 巴斯利卡塔的卡斯泰尔梅扎诺村，意大利 (© Roberto Moiola/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.SanMartinoVillage_ZH-CN4623104087_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
