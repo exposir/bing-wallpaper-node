@@ -1,3 +1,9 @@
+## 2022-9-21 在西尔特的最南端  
+
+赫努姆的茅草屋顶, 德国叙尔特岛 (© Francesco Carovillano/eStock Photo) [4k Edition](https://cn.bing.com//th?id=OHR.SyltNordseeHoernum_ZH-CN6316415332_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.SyltNordseeHoernum_ZH-CN6316415332_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-9-20 海上泰迪熊  
 
 阿拉斯加州锡特卡海峡的海獭，美国 (© Robert Harding/Offset/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.SitkaOtters_ZH-CN4715326633_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
