@@ -4,12 +4,6 @@
 
 ![](https://cn.bing.com//th?id=OHR.JohnstonWater_ZH-CN3121890365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
 
-## 2022-9-29 落基山脉的宝石  
-
-约翰斯顿峡谷，加拿大班夫国家公园 (© Jason Hatfield/TANDEM Stills + Motion) [4k Edition](https://cn.bing.com//th?id=OHR.JohnstonWater_ZH-CN3121890365_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
-
-![](https://cn.bing.com//th?id=OHR.JohnstonWater_ZH-CN3121890365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
-
 ## 2022-9-21 在西尔特的最南端  
 
 赫努姆的茅草屋顶, 德国叙尔特岛 (© Francesco Carovillano/eStock Photo) [4k Edition](https://cn.bing.com//th?id=OHR.SyltNordseeHoernum_ZH-CN6316415332_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
