@@ -24,7 +24,7 @@ jobs:
           git config --local user.name "exposir"
           git pull
           git add ./
-          git commit -m "update"
+          git commit -m "update wallpaper"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
