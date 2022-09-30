@@ -1,3 +1,9 @@
+## 2022-9-30 南冰洋里的巨鲸  
+
+在新湾潜水的南露脊鲸，阿根廷瓦尔德斯半岛 (© Gabriel Rojo/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.EubalaenaAustralis_ZH-CN3366455170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.EubalaenaAustralis_ZH-CN3366455170_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-9-29 落基山脉的宝石  
 
 约翰斯顿峡谷，加拿大班夫国家公园 (© Jason Hatfield/TANDEM Stills + Motion) [4k Edition](https://cn.bing.com//th?id=OHR.JohnstonWater_ZH-CN3121890365_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
