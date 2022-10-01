@@ -1,3 +1,9 @@
+## 2022-10-1 祖国生日快乐！  
+
+山上的日出，河北蔚县 (© zhao zhenhao/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.NationalDay2022_ZH-CN3861603311_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.NationalDay2022_ZH-CN3861603311_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-9-30 南冰洋里的巨鲸  
 
 在新湾潜水的南露脊鲸，阿根廷瓦尔德斯半岛 (© Gabriel Rojo/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.EubalaenaAustralis_ZH-CN3366455170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
