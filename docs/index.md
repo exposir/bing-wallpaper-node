@@ -1,3 +1,9 @@
+## 2022-10-2 切斯瑞湖  
+
+倒映在湖中的勃朗峰山脉，法国霞慕尼市 (© Stefan Huwiler/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.LacChesserys_ZH-CN4136691056_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.LacChesserys_ZH-CN4136691056_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-1 祖国生日快乐！  
 
 山上的日出，河北蔚县 (© zhao zhenhao/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.NationalDay2022_ZH-CN3861603311_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
