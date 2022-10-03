@@ -1,3 +1,9 @@
+## 2022-10-3 仙境之旅  
+
+仙女谷，苏格兰斯凯岛 (© e55evu/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.FairyGlen_ZH-CN4521633106_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.FairyGlen_ZH-CN4521633106_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-2 切斯瑞湖  
 
 倒映在湖中的勃朗峰山脉，法国霞慕尼市 (© Stefan Huwiler/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.LacChesserys_ZH-CN4136691056_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
