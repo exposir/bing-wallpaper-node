@@ -1,3 +1,9 @@
+## 2022-10-4 今天我们去爬山吧  
+
+黄山的日出，中国 (© zhouyousifang/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.ChongyangFestival_ZH-CN5260976551_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.ChongyangFestival_ZH-CN5260976551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-3 仙境之旅  
 
 仙女谷，苏格兰斯凯岛 (© e55evu/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.FairyGlen_ZH-CN4521633106_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
