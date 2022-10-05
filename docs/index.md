@@ -1,3 +1,9 @@
+## 2022-10-5 列队！  
+
+加勒比海红鹳，里奥拉加托斯自然保护区，墨西哥 (© Claudio Contreras/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.FlamingoTeacher_ZH-CN5688509752_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.FlamingoTeacher_ZH-CN5688509752_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-4 今天我们去爬山吧  
 
 黄山的日出，中国 (© zhouyousifang/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.ChongyangFestival_ZH-CN5260976551_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
