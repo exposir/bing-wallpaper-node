@@ -1,3 +1,9 @@
+## 2022-10-6 隐入大海的龙尾  
+
+巴斯克海岸世界地质公园的比斯开湾，西班牙 (© Olimpio Fantuz/eStock Photo) [4k Edition](https://cn.bing.com//th?id=OHR.BayofBiscay_ZH-CN6002214693_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.BayofBiscay_ZH-CN6002214693_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-5 列队！  
 
 加勒比海红鹳，里奥拉加托斯自然保护区，墨西哥 (© Claudio Contreras/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.FlamingoTeacher_ZH-CN5688509752_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
