@@ -1,3 +1,9 @@
+## 2022-10-7 英国中部最美丽的风景  
+
+温德米尔湖的风景，坎布里亚湖区，英格兰 (© Chris Warren/eStock Photo) [4k Edition](https://cn.bing.com//th?id=OHR.WindermereHills_ZH-CN6614218161_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.WindermereHills_ZH-CN6614218161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-6 隐入大海的龙尾  
 
 巴斯克海岸世界地质公园的比斯开湾，西班牙 (© Olimpio Fantuz/eStock Photo) [4k Edition](https://cn.bing.com//th?id=OHR.BayofBiscay_ZH-CN6002214693_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
