@@ -1,3 +1,9 @@
+## 2022-10-8 透明的头足类动物  
+
+佛得角附近大西洋中的玻璃章鱼 (© Solvin Zankl/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.GlassOctopus_ZH-CN6853414529_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.GlassOctopus_ZH-CN6853414529_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-7 英国中部最美丽的风景  
 
 温德米尔湖的风景，坎布里亚湖区，英格兰 (© Chris Warren/eStock Photo) [4k Edition](https://cn.bing.com//th?id=OHR.WindermereHills_ZH-CN6614218161_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
