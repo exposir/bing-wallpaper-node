@@ -1,3 +1,9 @@
+## 2022-10-10 穿越意大利峡湾之旅  
+
+瓦伦蒂诺大坝，意大利伦巴第大区布雷西亚省 (© wmaster890/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.ValvestinoDam_ZH-CN8397604653_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.ValvestinoDam_ZH-CN8397604653_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-9 什么生长得这样茂盛？  
 
 楚科奇海的浮游植物水华，美国阿拉斯加州海岸附近 (© Norman Kuring/Kathryn Hansen/U.S. Geological Survey/NASA) [4k Edition](https://cn.bing.com//th?id=OHR.ChukchiSea_ZH-CN7218471261_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
