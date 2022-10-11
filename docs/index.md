@@ -1,3 +1,9 @@
+## 2022-10-11 放大镜下的墙藓  
+
+带着闪闪发光水滴的泛生墙藓, 荷兰 (© Arjan Troost/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.TortulaMoss_ZH-CN8695265186_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.TortulaMoss_ZH-CN8695265186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-10 穿越意大利峡湾之旅  
 
 瓦伦蒂诺大坝，意大利伦巴第大区布雷西亚省 (© wmaster890/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.ValvestinoDam_ZH-CN8397604653_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
