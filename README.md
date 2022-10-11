@@ -1,4 +1,4 @@
-# [Bing Wallpapers](https://bing-wallpapers.vercel.app)  
+# [Bing Wallpapers](https://bing-wallpapers.netlify.app/)  
 
 ### 2022-10-11 放大镜下的墙藓  
 
