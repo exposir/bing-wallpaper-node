@@ -1,3 +1,9 @@
+## 2022-10-12 回到过去  
+
+蒙茅斯海滩的菊石路面，英国多塞特侏罗纪海岸世界遗产地 (© AWL Images/Danita Delimont) [4k Edition](https://cn.bing.com//th?id=OHR.AmmoniteGraveyard_ZH-CN8904427525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.AmmoniteGraveyard_ZH-CN8904427525_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-11 放大镜下的墙藓  
 
 带着闪闪发光水滴的泛生墙藓, 荷兰 (© Arjan Troost/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.TortulaMoss_ZH-CN8695265186_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
