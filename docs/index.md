@@ -1,3 +1,9 @@
+## 2022-10-13 驼鹿发情的季节  
+
+迪纳利国家公园里的两只驼鹿，美国阿拉斯加州 (© Yva Momatiuk and John Eastcott/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.AlaskaMoose_ZH-CN9148253690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.AlaskaMoose_ZH-CN9148253690_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-12 回到过去  
 
 蒙茅斯海滩的菊石路面，英国多塞特侏罗纪海岸世界遗产地 (© AWL Images/Danita Delimont) [4k Edition](https://cn.bing.com//th?id=OHR.AmmoniteGraveyard_ZH-CN8904427525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
