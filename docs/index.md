@@ -1,3 +1,9 @@
+## 2022-10-15 国际考古日  
+
+纳克什鲁斯塔姆遗址，伊朗波斯波利斯 (© mshirani/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.NaqsheRustam_ZH-CN9695151436_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.NaqsheRustam_ZH-CN9695151436_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-14 通往伊比利亚的门户  
 
 奥尔德萨和佩尔迪多山国家公园里的瀑布，西班牙比利牛斯山脉 (© David Santiago Garcia/Cavan Images) [4k Edition](https://cn.bing.com//th?id=OHR.RioArazas_ZH-CN9451571402_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
