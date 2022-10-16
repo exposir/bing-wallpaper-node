@@ -1,3 +1,9 @@
+## 2022-10-16 一座北部岛屿的南端  
+
+克里斯蒂安王子之声，格陵兰岛 (© Posnov/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.PrinceChristianSound_ZH-CN0274463143_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.PrinceChristianSound_ZH-CN0274463143_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-15 国际考古日  
 
 纳克什鲁斯塔姆遗址，伊朗波斯波利斯 (© mshirani/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.NaqsheRustam_ZH-CN9695151436_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
