@@ -1,3 +1,9 @@
+## 2022-10-17 “长耳”猫头鹰  
+
+捷克共和国波希米亚-摩拉维亚高地的长耳鸮 (© Ondrej Prosicky/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.SwedenOwl_ZH-CN6960032096_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.SwedenOwl_ZH-CN6960032096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-16 一座北部岛屿的南端  
 
 克里斯蒂安王子之声，格陵兰岛 (© Posnov/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.PrinceChristianSound_ZH-CN0274463143_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
