@@ -1,3 +1,9 @@
+## 2022-10-20 到哪都挂着  
+
+塔拉曼卡旧港的霍氏树懒母子，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.SlothDay_ZH-CN4945330735_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.SlothDay_ZH-CN4945330735_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-19 等等，这山上得有座城堡！  
 
 秋天的图林根森林与瓦特堡城堡，德国 (© ezypix/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.WartburgCastle_ZH-CN4201605751_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
