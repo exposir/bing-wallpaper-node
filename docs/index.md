@@ -1,3 +1,9 @@
+## 2022-10-22 云山雾绕  
+
+中国桂林漓江国家公园的喀斯特山脉 (© Sean Pavone/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.KarstMountains_ZH-CN4719178982_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.KarstMountains_ZH-CN4719178982_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-21 美国南部的别样秋景  
 
 秋季的落羽杉，美国佐治亚州 (© Chris Moore/Tandem Stills + Motion) [4k Edition](https://cn.bing.com//th?id=OHR.GeorgiaCypress_ZH-CN3705257154_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
