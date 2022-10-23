@@ -1,3 +1,9 @@
+## 2022-10-23 疣鼻天鹅  
+
+疣鼻天鹅，荷兰瓦尔肯霍斯特自然保护区 (© David Pattyn/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.Knobbelzwaan_ZH-CN4850245302_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.Knobbelzwaan_ZH-CN4850245302_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-22 云山雾绕  
 
 中国桂林漓江国家公园的喀斯特山脉 (© Sean Pavone/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.KarstMountains_ZH-CN4719178982_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
