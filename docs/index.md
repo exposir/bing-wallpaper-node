@@ -1,3 +1,9 @@
+## 2022-10-24 维尔茨堡美因河畔的一座城堡  
+
+玛利恩堡，德国莱茵兰-普法尔茨州采尔县附近 (© Eiben, Hans Georg/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.MarienburgZell_ZH-CN4562312386_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.MarienburgZell_ZH-CN4562312386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-23 疣鼻天鹅  
 
 疣鼻天鹅，荷兰瓦尔肯霍斯特自然保护区 (© David Pattyn/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.Knobbelzwaan_ZH-CN4850245302_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
