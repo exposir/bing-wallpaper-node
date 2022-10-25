@@ -1,3 +1,9 @@
+## 2022-10-25 怪物公园  
+
+怪物公园里的奥库斯雕像, 意大利博马尔佐花园 (© Scott Wilson/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.OrcusMouth_ZH-CN7303142999_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.OrcusMouth_ZH-CN7303142999_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-24 维尔茨堡美因河畔的一座城堡  
 
 玛利恩堡，德国莱茵兰-普法尔茨州采尔县附近 (© Eiben, Hans Georg/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.MarienburgZell_ZH-CN4562312386_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
