@@ -1,3 +1,9 @@
+## 2022-10-26 山上的幽灵  
+
+巴尔干中央国家公园的布罗肯现象，保加利亚 (© Maya Karkalicheva/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.BrockenSpecter_ZH-CN5278743909_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.BrockenSpecter_ZH-CN5278743909_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-25 怪物公园  
 
 怪物公园里的奥库斯雕像, 意大利博马尔佐花园 (© Scott Wilson/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.OrcusMouth_ZH-CN7303142999_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
