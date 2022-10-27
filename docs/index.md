@@ -1,3 +1,9 @@
+## 2022-10-27 一个吻和一声叹息  
+
+意大利威尼斯的叹息桥 (© Doug Pearson/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.BridgeofSighs_ZH-CN5414607871_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.BridgeofSighs_ZH-CN5414607871_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-26 山上的幽灵  
 
 巴尔干中央国家公园的布罗肯现象，保加利亚 (© Maya Karkalicheva/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.BrockenSpecter_ZH-CN5278743909_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
