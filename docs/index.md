@@ -1,3 +1,9 @@
+## 2022-10-28 一个黑暗的暴风雨之夜  
+
+洛桑日内瓦湖上空的暴风雨，瑞典 (© Suradech Singhanat/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.FrankensteinFriday_ZH-CN5814917673_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.FrankensteinFriday_ZH-CN5814917673_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-27 一个吻和一声叹息  
 
 意大利威尼斯的叹息桥 (© Doug Pearson/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.BridgeofSighs_ZH-CN5414607871_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
