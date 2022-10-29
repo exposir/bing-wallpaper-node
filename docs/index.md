@@ -4,6 +4,12 @@
 
 ![](https://cn.bing.com//th?id=OHR.SeaAngel_ZH-CN6176844066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
 
+## 2022-10-29 海洋天使  
+
+海洋天使 (© Alexander Semenov Images/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.SeaAngel_ZH-CN6176844066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.SeaAngel_ZH-CN6176844066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-28 一个黑暗的暴风雨之夜  
 
 洛桑日内瓦湖上空的暴风雨，瑞典 (© Suradech Singhanat/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.FrankensteinFriday_ZH-CN5814917673_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
@@ -183,6 +189,48 @@ Bridalveil Fall, Yosemite National Park, California (© Jeff Foott/Minden Pictur
 约翰斯顿峡谷，加拿大班夫国家公园 (© Jason Hatfield/TANDEM Stills + Motion) [4k Edition](https://cn.bing.com//th?id=OHR.JohnstonWater_ZH-CN3121890365_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
 
 ![](https://cn.bing.com//th?id=OHR.JohnstonWater_ZH-CN3121890365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
+## 2022-9-28 现代娱乐  
+
+卡伯特镇的福斯特廊桥，美国佛蒙特州 (© Alan Majchrowicz/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.FosterCoveredBridge_ZH-CN2672988563_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.FosterCoveredBridge_ZH-CN2672988563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
+## 2022-9-27 水火交汇处  
+
+黄石国家公园里的上间歇泉盆地，美国怀俄明州 (© Ray Urner/Tandem Stills + Motion) [4k Edition](https://cn.bing.com//th?id=OHR.YellowstoneUGB_ZH-CN2518690319_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.YellowstoneUGB_ZH-CN2518690319_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
+## 2022-9-26 是时候给人留下印象了  
+
+两头穿越苏西特纳河的驯鹿，美国阿拉斯加 (© Tim Plowden/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.SusitnaRiver_ZH-CN2317772890_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.SusitnaRiver_ZH-CN2317772890_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
+## 2022-9-25 河流流经我们  
+
+亚马逊河鸟瞰图，巴西 (© Curioso.Photography/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.AmazonMangroves_ZH-CN2154443859_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.AmazonMangroves_ZH-CN2154443859_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
+## 2022-9-24 繁星满天的夜晚  
+
+阿卡迪亚国家公园上空的银河系，美国缅因州 (© Harry Collins/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.DarkSkyAcadia_ZH-CN1827511700_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.DarkSkyAcadia_ZH-CN1827511700_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
+## 2022-9-23 秋季颜色  
+
+最后一美元公路旁的白杨树，科罗拉多州特鲁莱德市附近 (© Grant Ordelheide/Tandem Stills + Motion) [4k Edition](https://cn.bing.com/th?id=OHR.LastDollarRoad_ZH-CN1462265798_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com/th?id=OHR.LastDollarRoad_ZH-CN1462265798_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
+## 2022-9-22 一个小而强大的守护者  
+
+春角礁灯塔，缅因州南波特兰 (© Haizhan Zheng/Getty Images) [4k Edition](https://cn.bing.com/th?id=OHR.SpringPoint_ZH-CN6445792697_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com/th?id=OHR.SpringPoint_ZH-CN6445792697_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
 
 ## 2022-9-21 在西尔特的最南端  
 
