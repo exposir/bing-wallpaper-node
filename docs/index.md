@@ -1,3 +1,9 @@
+## 2022-10-30 北极之王  
+
+哈德逊湾边缘的北极熊，加拿大 (© Sean Crane/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.SealRiver_ZH-CN6334858649_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.SealRiver_ZH-CN6334858649_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-29 海洋天使  
 
 海洋天使 (© Alexander Semenov Images/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.SeaAngel_ZH-CN6176844066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
