@@ -1,3 +1,9 @@
+## 2022-11-1 来一盏微笑的南瓜灯吗？  
+
+神秘森林里木桌上的两个微笑的万圣节南瓜 (© sandsun/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.SmilingPunpkins2022_ZH-CN6763384812_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.SmilingPunpkins2022_ZH-CN6763384812_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-10-31 是谁躲在这令人毛骨悚然的树林里？  
 
 牛津郡韦奇伍德森林的树，英国 (© Frederick Ardley/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.WychwoodForest_ZH-CN6560180288_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
