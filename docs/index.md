@@ -1,3 +1,9 @@
+## 2022-11-2 您喝的茶可能来自这里  
+
+慕纳尔的茶园，印度喀拉拉邦 (© Mazur Travel/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.TeaPlantationsMunnar_ZH-CN7007323849_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.TeaPlantationsMunnar_ZH-CN7007323849_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-11-1 来一盏微笑的南瓜灯吗？  
 
 神秘森林里木桌上的两个微笑的万圣节南瓜 (© sandsun/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.SmilingPunpkins2022_ZH-CN6763384812_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
