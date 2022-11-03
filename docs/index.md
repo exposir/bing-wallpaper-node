@@ -1,3 +1,9 @@
+## 2022-11-3 一个关于可持续发展的实验  
+
+乞力马扎罗山和非洲水牛，肯尼亚 (© RealityImages/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.AmboseliBioshere_ZH-CN7220940943_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.AmboseliBioshere_ZH-CN7220940943_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-11-2 您喝的茶可能来自这里  
 
 慕纳尔的茶园，印度喀拉拉邦 (© Mazur Travel/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.TeaPlantationsMunnar_ZH-CN7007323849_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
