@@ -1,3 +1,9 @@
+## 2022-11-4 落基山上碧玉腰带  
+
+班夫国家公园的沛托湖，加拿大艾伯塔省 (© Ben Girardi/Cavan Images) [4k Edition](https://cn.bing.com//th?id=OHR.PeytoIce_ZH-CN7517633327_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.PeytoIce_ZH-CN7517633327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-11-3 一个关于可持续发展的实验  
 
 乞力马扎罗山和非洲水牛，肯尼亚 (© RealityImages/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.AmboseliBioshere_ZH-CN7220940943_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
