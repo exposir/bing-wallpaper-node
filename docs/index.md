@@ -1,3 +1,9 @@
+## 2022-11-5 重温往日辉煌  
+
+阿赫雷湖畔的泰莫特罗萨克斯城堡酒店，苏格兰 (© Fortunato Gatto/eStock Photo) [4k Edition](https://cn.bing.com//th?id=OHR.Trossachs_ZH-CN9299955040_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.Trossachs_ZH-CN9299955040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-11-4 落基山上碧玉腰带  
 
 班夫国家公园的沛托湖，加拿大艾伯塔省 (© Ben Girardi/Cavan Images) [4k Edition](https://cn.bing.com//th?id=OHR.PeytoIce_ZH-CN7517633327_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
