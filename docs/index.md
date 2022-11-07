@@ -1,3 +1,9 @@
+## 2022-11-7 冬天来了  
+
+庐山冬季美景，中国江西省 (© silkwayrain/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.LiDong2022_ZH-CN9929478283_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.LiDong2022_ZH-CN9929478283_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-11-6 跑过纽约五个行政区  
 
 1990年纽约市马拉松比赛，参赛者穿过韦拉扎诺海峡大桥 (© David Madison/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.MarathonSunday_ZH-CN9833453732_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
