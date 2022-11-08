@@ -1,3 +1,9 @@
+## 2022-11-8 祝福和祈愿的日子  
+
+清迈易鹏节升起的天灯，泰国 (© Suttipong Sutiratanachai/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.YiPeng_ZH-CN0652265903_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.YiPeng_ZH-CN0652265903_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-11-7 冬天来了  
 
 庐山冬季美景，中国江西省 (© silkwayrain/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.LiDong2022_ZH-CN9929478283_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
