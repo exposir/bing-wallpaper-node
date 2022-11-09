@@ -1,3 +1,9 @@
+## 2022-11-9 可以观赏，请勿触碰  
+
+萨塞克斯郡的西欧刺猬，英国 (© Jules Cox/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.HedgehogNest_ZH-CN0781850458_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.HedgehogNest_ZH-CN0781850458_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-11-8 祝福和祈愿的日子  
 
 清迈易鹏节升起的天灯，泰国 (© Suttipong Sutiratanachai/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.YiPeng_ZH-CN0652265903_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
