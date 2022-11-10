@@ -1,3 +1,9 @@
+## 2022-11-10 恶地国家公园的一场闪电？  
+
+雷暴中恶地国家公园的岩层，美国南达科他州 (© DEEPOL by plainpicture) [4k Edition](https://cn.bing.com//th?id=OHR.BadLightning_ZH-CN1049646409_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.BadLightning_ZH-CN1049646409_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-11-9 可以观赏，请勿触碰  
 
 萨塞克斯郡的西欧刺猬，英国 (© Jules Cox/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.HedgehogNest_ZH-CN0781850458_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
