@@ -1,3 +1,9 @@
+## 2022-11-13 美丽清澈的河流  
+
+伊萨尔河鸟瞰图，德国伦格里斯 (© Martin Siepmann/Offset/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.IsarwinkelSylvenstein_ZH-CN2963187862_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.IsarwinkelSylvenstein_ZH-CN2963187862_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-11-12 秃鹰的集会  
 
 阿拉斯加州海恩斯附近的秃鹰群，美国 (© Marion Vollborn/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.HainesEagle_ZH-CN1542376030_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
