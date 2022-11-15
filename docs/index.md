@@ -1,3 +1,9 @@
+## 2022-11-15 北美水獭  
+
+北美水獭在阿卡迪亚国家公园游泳，美国 (© George Sanker/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.LontraCanadensis_ZH-CN3359002168_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.LontraCanadensis_ZH-CN3359002168_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-11-14 爱琴海之巅  
 
 哈尔基岛的圣约翰骑士中世纪城堡遗址，希腊 (© Massimo Ripani/eStock Photo) [4k Edition](https://cn.bing.com//th?id=OHR.SanGiovanni_ZH-CN3184593519_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
