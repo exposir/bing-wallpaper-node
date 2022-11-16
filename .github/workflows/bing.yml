@@ -20,7 +20,7 @@ jobs:
         run: npm run build
       - name: Commit files
         run: |
-          git config --local user.email "897205285@@@.com"
+          git config --local user.email "exposir@foxmail.com"
           git config --local user.name "exposir"
           git pull
           git add ./
