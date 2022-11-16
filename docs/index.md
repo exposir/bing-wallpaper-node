@@ -4,6 +4,12 @@
 
 ![](https://cn.bing.com//th?id=OHR.Unesco50_ZH-CN3652927413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
 
+## 2022-11-16 《保护世界文化和自然遗产公约》  
+
+梅萨维德国家公园的悬崖宫，美国 (© Brad McGinley Photography/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.Unesco50_ZH-CN3652927413_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.Unesco50_ZH-CN3652927413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-11-15 北美水獭  
 
 北美水獭在阿卡迪亚国家公园游泳，美国 (© George Sanker/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.LontraCanadensis_ZH-CN3359002168_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
