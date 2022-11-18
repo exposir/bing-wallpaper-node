@@ -1,3 +1,9 @@
+## 2022-11-18 通往皇宫的大门  
+
+菲斯皇宫的大门，摩洛哥 (© Adam Smigielski/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.IslamicArt_ZH-CN9972614185_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.IslamicArt_ZH-CN9972614185_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-11-17 徒步旅行  
 
 威拉米特国家森林麦肯齐河步道上的桥，美国 (© Don Paulson/Danita Delimont) [4k Edition](https://cn.bing.com//th?id=OHR.McKenzieRiverTrail_ZH-CN3786429850_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
