@@ -1,3 +1,9 @@
+## 2022-11-20 深空中的金色悬崖  
+
+船底星云中的宇宙悬崖 (© NASA, ESA, CSA, and STScI) [4k Edition](https://cn.bing.com//th?id=OHR.CosmicCliffs_ZH-CN9555199651_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.CosmicCliffs_ZH-CN9555199651_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-11-19 历经百年的锡安国家公园  
 
 犹他州锡安国家公园的维尔京河，美国 (© Jonathan Ross/Getty) [4k Edition](https://cn.bing.com//th?id=OHR.ZNPVR_ZH-CN0123954914_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
