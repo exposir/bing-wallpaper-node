@@ -1,3 +1,9 @@
+## 2022-11-21 令人陶醉的海岛花园  
+
+伊索拉贝拉岛，意大利马焦雷湖 (© Massimo Ripani/eStock) [4k Edition](https://cn.bing.com//th?id=OHR.BorromeanIslands_ZH-CN0480730115_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.BorromeanIslands_ZH-CN0480730115_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-11-20 深空中的金色悬崖  
 
 船底星云中的宇宙悬崖 (© NASA, ESA, CSA, and STScI) [4k Edition](https://cn.bing.com//th?id=OHR.CosmicCliffs_ZH-CN9555199651_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
