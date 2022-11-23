@@ -1,3 +1,9 @@
+## 2022-11-23 自然、艺术和数学  
+
+向日葵 (© Dileep Chandran/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-11-22 赤狐  
 
 阿姆斯特丹供水沙丘自然保护区的赤狐，荷兰 (© Edwin Giesbers/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.Waterleidingduinen_ZH-CN1430683267_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
