@@ -1,3 +1,9 @@
+## 2022-11-24 令人惊叹的山顶美景  
+
+坎彭万德山，基姆高地区阿绍，德国巴伐利亚州 (© Toni Anzenberger/plainpicture) [4k Edition](https://cn.bing.com//th?id=OHR.AschauChiemgau_ZH-CN1929016406_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.AschauChiemgau_ZH-CN1929016406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-11-23 自然、艺术和数学  
 
 向日葵 (© Dileep Chandran/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
