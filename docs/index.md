@@ -1,3 +1,9 @@
+## 2022-11-25 科雷兹的宝石  
+
+日出时分的蒂雷纳村庄，法国新阿基坦大区科雷兹省 (© Tim Mannakee/plainpicture) [4k Edition](https://cn.bing.com//th?id=OHR.TurenneSunrise_ZH-CN2357226217_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.TurenneSunrise_ZH-CN2357226217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-11-24 令人惊叹的山顶美景  
 
 坎彭万德山，基姆高地区阿绍，德国巴伐利亚州 (© Toni Anzenberger/plainpicture) [4k Edition](https://cn.bing.com//th?id=OHR.AschauChiemgau_ZH-CN1929016406_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
