@@ -1,3 +1,9 @@
+## 2022-11-26 和平的象征  
+
+意大利西西里岛康科迪亚神庙前的一棵橄榄树 (© Alfio Finocchiaro/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.OliveTreeDay_ZH-CN3960861965_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.OliveTreeDay_ZH-CN3960861965_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-11-25 科雷兹的宝石  
 
 日出时分的蒂雷纳村庄，法国新阿基坦大区科雷兹省 (© Tim Mannakee/plainpicture) [4k Edition](https://cn.bing.com//th?id=OHR.TurenneSunrise_ZH-CN2357226217_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
