@@ -1,3 +1,9 @@
+## 2022-11-28 太阳系的第四颗行星  
+
+火星（© NASA/Alamy） [4k Edition](https://cn.bing.com//th?id=OHR.RedPlanetDay_ZH-CN4913018041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.RedPlanetDay_ZH-CN4913018041_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-11-27 不可思议的树叶  
 
 一片飘落在龙虾爪瓣上的号角树树叶，墨西哥 (© Gerry Ellis/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.Cecropia_ZH-CN4236630074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
