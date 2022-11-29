@@ -1,3 +1,9 @@
+## 2022-11-29 付出和给予的一天  
+
+正在筑巢的大蓝鹭，佛罗里达州瓦可达哈齐湿地，美国 (© Imagebroker/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.HeronGiving_ZH-CN5229629007_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.HeronGiving_ZH-CN5229629007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-11-28 太阳系的第四颗行星  
 
 火星（© NASA/Alamy） [4k Edition](https://cn.bing.com//th?id=OHR.RedPlanetDay_ZH-CN4913018041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
