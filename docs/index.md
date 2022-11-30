@@ -1,3 +1,9 @@
+## 2022-11-30 亚得里亚海边的明珠  
+
+罗维尼老城，克罗地亚 (© trabantos/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.RovinjCroatia_ZH-CN5459110500_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.RovinjCroatia_ZH-CN5459110500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-11-29 付出和给予的一天  
 
 正在筑巢的大蓝鹭，佛罗里达州瓦可达哈齐湿地，美国 (© Imagebroker/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.HeronGiving_ZH-CN5229629007_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
