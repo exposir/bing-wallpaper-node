@@ -1,3 +1,9 @@
+## 2022-12-1 江泽民逝世  
+
+江泽民逝世 (© Luca Flor/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.QingmingCandle2020_ZH-CN6775701680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.QingmingCandle2020_ZH-CN6775701680_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-11-30 亚得里亚海边的明珠  
 
 罗维尼老城，克罗地亚 (© trabantos/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.RovinjCroatia_ZH-CN5459110500_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
