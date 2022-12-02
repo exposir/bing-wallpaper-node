@@ -1,3 +1,9 @@
+## 2022-12-2 保护阿拉斯加的自然之美  
+
+特里卡基拉河三角洲，阿拉斯加州克拉克湖国家公园，美国 (© Dawn Wilson Photography/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.BraidedRiverDelta_ZH-CN3352462511_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.BraidedRiverDelta_ZH-CN3352462511_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-1 江泽民逝世  
 
 江泽民逝世 (© Luca Flor/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.QingmingCandle2020_ZH-CN6775701680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
