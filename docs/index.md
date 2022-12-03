@@ -1,3 +1,9 @@
+## 2022-12-3 在艺术天堂追逐夏天  
+
+迈阿密海滩海洋大道，美国佛罗里达州 (© Matteo Colombo/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.MiamiDT_ZH-CN3528760113_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.MiamiDT_ZH-CN3528760113_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-2 保护阿拉斯加的自然之美  
 
 特里卡基拉河三角洲，阿拉斯加州克拉克湖国家公园，美国 (© Dawn Wilson Photography/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.BraidedRiverDelta_ZH-CN3352462511_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
