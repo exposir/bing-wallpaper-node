@@ -1,3 +1,9 @@
+## 2022-12-4 象群在路上  
+
+乞力马扎罗山附近的大象，安波塞利国家公园，肯尼亚 (© Diana Robinson Photography/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.KilimanjaroElephants_ZH-CN3779609103_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.KilimanjaroElephants_ZH-CN3779609103_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-3 在艺术天堂追逐夏天  
 
 迈阿密海滩海洋大道，美国佛罗里达州 (© Matteo Colombo/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.MiamiDT_ZH-CN3528760113_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
