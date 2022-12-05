@@ -1,3 +1,9 @@
+## 2022-12-5 绿意盎然  
+
+古瓦哈提的竹子，印度阿萨姆邦 (© Page Bazar/500px/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.BambooTreesIndia_ZH-CN3943852151_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.BambooTreesIndia_ZH-CN3943852151_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-4 象群在路上  
 
 乞力马扎罗山附近的大象，安波塞利国家公园，肯尼亚 (© Diana Robinson Photography/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.KilimanjaroElephants_ZH-CN3779609103_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
