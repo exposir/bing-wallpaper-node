@@ -1,3 +1,9 @@
+## 2022-12-6 白鹭亮羽  
+
+大沼泽国家公园里的一只大白鹭，美国佛罗里达州 (© Troy Harrison/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.GreatEgret_ZH-CN4088261519_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.GreatEgret_ZH-CN4088261519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-5 绿意盎然  
 
 古瓦哈提的竹子，印度阿萨姆邦 (© Page Bazar/500px/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.BambooTreesIndia_ZH-CN3943852151_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
