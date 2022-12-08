@@ -1,3 +1,9 @@
+## 2022-12-8 这些古老的动物是什么？  
+
+多弗勒山-松达尔国家公园的麝牛与她的宝宝，挪威 (© Robert Haasmann/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.WistmansWood_ZH-CN4453301808_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.WistmansWood_ZH-CN4453301808_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-7 落基山脉的径流  
 
 贾斯珀国家公园纠结溪瀑布，阿尔伯塔省，加拿大 (© Jeff Foott/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.TangleCreekFalls_ZH-CN4281148652_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
