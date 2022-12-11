@@ -1,3 +1,9 @@
+## 2022-12-11 国际山岳日  
+
+泰根塞山脉Roßstein山顶的景色，德国巴伐利亚州 (© Christian Bäck/eStock Photo) [4k Edition](https://cn.bing.com//th?id=OHR.BuchsteinRossstein_ZH-CN4924477552_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.BuchsteinRossstein_ZH-CN4924477552_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-10 一小撮盐可不够  
 
 玻利维亚的乌尤尼盐沼 (© Theo Allofs/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.SaltDesert_ZH-CN4728398785_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
