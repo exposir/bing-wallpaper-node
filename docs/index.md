@@ -1,3 +1,9 @@
+## 2022-12-12 假日色调  
+
+一品红 (© Elizabeth Fernandez/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.PoinsettiaDay_ZH-CN5115071992_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.PoinsettiaDay_ZH-CN5115071992_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-11 国际山岳日  
 
 泰根塞山脉Roßstein山顶的景色，德国巴伐利亚州 (© Christian Bäck/eStock Photo) [4k Edition](https://cn.bing.com//th?id=OHR.BuchsteinRossstein_ZH-CN4924477552_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
