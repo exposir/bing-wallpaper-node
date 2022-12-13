@@ -1,3 +1,9 @@
+## 2022-12-13 哈尔施塔特，奥地利  
+
+哈尔施塔特，奥地利 (© Jon Arnold Images Ltd/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.InstagramHallstatt_ZH-CN5309282641_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.InstagramHallstatt_ZH-CN5309282641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-12 假日色调  
 
 一品红 (© Elizabeth Fernandez/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.PoinsettiaDay_ZH-CN5115071992_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
