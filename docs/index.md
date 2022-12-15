@@ -1,3 +1,9 @@
+## 2022-12-15 冬季仙境  
+
+博罗韦茨，保加利亚 (© Grigor Ivanov/Cavan Images) [4k Edition](https://cn.bing.com//th?id=OHR.Borovets_ZH-CN5914681811_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.Borovets_ZH-CN5914681811_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-14 意大利最古老的国家公园  
 
 大帕拉迪索国家公园，意大利 (© agustavop/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.GranParadiso100th_ZH-CN5744961532_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
