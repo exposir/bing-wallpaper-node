@@ -1,3 +1,9 @@
+## 2022-12-16 令人难忘的景色  
+
+杜德萨加尔瀑布，印度果阿 (© Lucky-photographer/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.DudhsagarFallsGoa_ZH-CN0466471017_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.DudhsagarFallsGoa_ZH-CN0466471017_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-15 冬季仙境  
 
 博罗韦茨，保加利亚 (© Grigor Ivanov/Cavan Images) [4k Edition](https://cn.bing.com//th?id=OHR.Borovets_ZH-CN5914681811_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
