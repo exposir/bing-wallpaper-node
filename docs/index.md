@@ -1,3 +1,9 @@
+## 2022-12-18 通往拉丁美洲的门户  
+
+迈阿密南海滩，美国佛罗里达州 (© Claudia Uripos/eStock Photo) [4k Edition](https://cn.bing.com//th?id=OHR.SouthBeach_ZH-CN0989287734_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.SouthBeach_ZH-CN0989287734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-17 它们对你也同样好奇  
 
 冰川国家公园的山羊，美国蒙大拿州 (© Sumio Harada/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.GlacierGoats_ZH-CN0764810245_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
