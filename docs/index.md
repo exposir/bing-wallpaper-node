@@ -1,3 +1,9 @@
+## 2022-12-19 一抹鲜艳的色彩  
+
+栖息在北美冬青上的北美红雀，美国伊利诺伊州 (© Richard and Susan Day/Danita Delimont) [4k Edition](https://cn.bing.com//th?id=OHR.WinterberryBush_ZH-CN1414026440_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.WinterberryBush_ZH-CN1414026440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-18 通往拉丁美洲的门户  
 
 迈阿密南海滩，美国佛罗里达州 (© Claudia Uripos/eStock Photo) [4k Edition](https://cn.bing.com//th?id=OHR.SouthBeach_ZH-CN0989287734_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
