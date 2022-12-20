@@ -1,3 +1,9 @@
+## 2022-12-20 圣诞节的倒影  
+
+维也纳美景宫的圣诞市场，奥地利 (© Diyana Dimitrova/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.PalaceBelvedere_ZH-CN1818163173_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.PalaceBelvedere_ZH-CN1818163173_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-19 一抹鲜艳的色彩  
 
 栖息在北美冬青上的北美红雀，美国伊利诺伊州 (© Richard and Susan Day/Danita Delimont) [4k Edition](https://cn.bing.com//th?id=OHR.WinterberryBush_ZH-CN1414026440_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
