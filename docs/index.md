@@ -1,3 +1,9 @@
+## 2022-12-21 环绕太阳的彩虹  
+
+多洛米蒂山脉安特莫亚湖上的日晕，意大利 (© Walter Donega/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.SolarHalo_ZH-CN2320274967_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.SolarHalo_ZH-CN2320274967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-20 圣诞节的倒影  
 
 维也纳美景宫的圣诞市场，奥地利 (© Diyana Dimitrova/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.PalaceBelvedere_ZH-CN1818163173_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
