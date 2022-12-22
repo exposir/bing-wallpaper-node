@@ -1,3 +1,9 @@
+## 2022-12-22 法国阿尔卑斯山的明珠  
+
+安纳西，法国上瓦萨省 (© Sabine Klein/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.AnnecyXmas_ZH-CN2540694929_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.AnnecyXmas_ZH-CN2540694929_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-21 环绕太阳的彩虹  
 
 多洛米蒂山脉安特莫亚湖上的日晕，意大利 (© Walter Donega/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.SolarHalo_ZH-CN2320274967_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
