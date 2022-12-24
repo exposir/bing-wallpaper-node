@@ -1,3 +1,9 @@
+## 2022-12-24 冰天雪地里的小可爱  
+
+狍子，特伦蒂诺-上阿迪杰大区，意大利 (© Federica Cattaruzzi/eStock) [4k Edition](https://cn.bing.com//th?id=OHR.RoeTrentinoSnow_ZH-CN3122890500_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.RoeTrentinoSnow_ZH-CN3122890500_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-23 南极洲的巴布亚企鹅  
 
 南极洲的巴布亚企鹅 (© Nature Picture Library/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.GentooGrievances_ZH-CN2875292726_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
