@@ -1,3 +1,9 @@
+## 2022-12-25 灯光点亮了悠闲的小镇  
+
+黑梳山附近的惠斯勒小镇，加拿大不列颠哥伦比亚省 (© VisualCommunications/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.WhistlerVillage_ZH-CN3451305723_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.WhistlerVillage_ZH-CN3451305723_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-24 冰天雪地里的小可爱  
 
 狍子，特伦蒂诺-上阿迪杰大区，意大利 (© Federica Cattaruzzi/eStock) [4k Edition](https://cn.bing.com//th?id=OHR.RoeTrentinoSnow_ZH-CN3122890500_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
