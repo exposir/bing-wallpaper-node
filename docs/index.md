@@ -1,3 +1,9 @@
+## 2022-12-26 阖家欢乐的一天  
+
+贝弗利·韦斯特伍德，东约克郡，英格兰 (© Les Gibbon/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.BeverleyWestwood_ZH-CN3729041588_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.BeverleyWestwood_ZH-CN3729041588_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-25 灯光点亮了悠闲的小镇  
 
 黑梳山附近的惠斯勒小镇，加拿大不列颠哥伦比亚省 (© VisualCommunications/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.WhistlerVillage_ZH-CN3451305723_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
