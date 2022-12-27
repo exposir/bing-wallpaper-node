@@ -1,3 +1,9 @@
+## 2022-12-27 治愈身心的“废水”  
+
+格林达维克的蓝湖，冰岛 (© Westend61/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.BlueLagoon_ZH-CN3874240119_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.BlueLagoon_ZH-CN3874240119_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-26 阖家欢乐的一天  
 
 贝弗利·韦斯特伍德，东约克郡，英格兰 (© Les Gibbon/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.BeverleyWestwood_ZH-CN3729041588_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
