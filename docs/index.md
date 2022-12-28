@@ -1,3 +1,9 @@
+## 2022-12-28 雪花玻璃球一般的美景  
+
+马洛亚，瑞士 (© Roberto Moiola/Getty) [4k Edition](https://cn.bing.com//th?id=OHR.ChiesaBianca_ZH-CN4208333975_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.ChiesaBianca_ZH-CN4208333975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-27 治愈身心的“废水”  
 
 格林达维克的蓝湖，冰岛 (© Westend61/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.BlueLagoon_ZH-CN3874240119_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
