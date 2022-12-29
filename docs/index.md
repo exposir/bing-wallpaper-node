@@ -1,3 +1,9 @@
+## 2022-12-29 天空之岛  
+
+斯托尔石山，天空之岛，苏格兰 (© Aliaume Chapelle/Tandem Stills + Motion) [4k Edition](https://cn.bing.com//th?id=OHR.StorrRocks_ZH-CN4956679462_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.StorrRocks_ZH-CN4956679462_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-28 雪花玻璃球一般的美景  
 
 马洛亚，瑞士 (© Roberto Moiola/Getty) [4k Edition](https://cn.bing.com//th?id=OHR.ChiesaBianca_ZH-CN4208333975_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
