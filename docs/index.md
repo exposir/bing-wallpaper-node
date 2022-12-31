@@ -1,3 +1,9 @@
+## 2022-12-31 和谁一起跨年？  
+
+一起迎接2023年 (© GettyImages) [4k Edition](https://cn.bing.com//th?id=OHR.TheNationaDay_ZH-CN7631842209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.TheNationaDay_ZH-CN7631842209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-30 这些雪永远不会融化  
 
 白沙漠中的岩石，埃及 (© Anton Petrus/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.ChalkRock_ZH-CN2893565655_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
