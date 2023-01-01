@@ -1,3 +1,9 @@
+## 2023-1-1 在北极附近打盹  
+
+北极熊斯瓦尔巴群岛，挪威 (© Dennis Stogsdill/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.NorwayNYD_ZH-CN7856439066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.NorwayNYD_ZH-CN7856439066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2022-12-31 和谁一起跨年？  
 
 一起迎接2023年 (© GettyImages) [4k Edition](https://cn.bing.com//th?id=OHR.TheNationaDay_ZH-CN7631842209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
