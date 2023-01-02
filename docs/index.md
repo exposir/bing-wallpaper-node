@@ -1,3 +1,9 @@
+## 2023-1-2 正如童话一般  
+
+霍亨索伦城堡，德国 (© Sahara Prince/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.HohenzollernBurg_ZH-CN8109082566_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.HohenzollernBurg_ZH-CN8109082566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2023-1-1 在北极附近打盹  
 
 北极熊斯瓦尔巴群岛，挪威 (© Dennis Stogsdill/Getty Images) [4k Edition](https://cn.bing.com//th?id=OHR.NorwayNYD_ZH-CN7856439066_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
