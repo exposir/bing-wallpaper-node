@@ -1,3 +1,9 @@
+## 2023-1-4 如此接近，却又如此遥远  
+
+从国际空间站看到的地球 (© JSC/NASA) [4k Edition](https://cn.bing.com//th?id=OHR.Perihelion_ZH-CN8681537155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.Perihelion_ZH-CN8681537155_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2023-1-3 谁在打盹儿？  
 
 博斯克·德尔·阿帕奇国家野生动物保护区的沙丘鹤，美国新墨西哥州 (© Jay Goodrich/Tandem Stills + Motion) [4k Edition](https://cn.bing.com//th?id=OHR.SandhillSleeping_ZH-CN8483997851_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
