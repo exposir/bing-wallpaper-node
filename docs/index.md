@@ -1,3 +1,9 @@
+## 2023-1-5 软萌雪中小精灵  
+
+白鼬 (Mustela erminea), 上巴伐利亚，德国 (© Konrad Wothe/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.HermelinSchnee_ZH-CN8839783506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.HermelinSchnee_ZH-CN8839783506_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2023-1-4 如此接近，却又如此遥远  
 
 从国际空间站看到的地球 (© JSC/NASA) [4k Edition](https://cn.bing.com//th?id=OHR.Perihelion_ZH-CN8681537155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
