@@ -1,3 +1,9 @@
+## 2023-1-6 “群山拥有抚慰和治愈的力量”  
+
+英格兰湖区的Black Fell (© Daniel Kay/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.BlackFell_ZH-CN9224189688_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.BlackFell_ZH-CN9224189688_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2023-1-5 软萌雪中小精灵  
 
 白鼬 (Mustela erminea), 上巴伐利亚，德国 (© Konrad Wothe/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.HermelinSchnee_ZH-CN8839783506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
