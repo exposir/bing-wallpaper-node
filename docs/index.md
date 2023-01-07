@@ -1,3 +1,9 @@
+## 2023-1-7 纺纱杆到底是什么东西？  
+
+羊毛和马海毛纱线 (© Jurate Buiviene/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.Mohair_ZH-CN9435762268_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.Mohair_ZH-CN9435762268_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2023-1-6 “群山拥有抚慰和治愈的力量”  
 
 英格兰湖区的Black Fell (© Daniel Kay/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.BlackFell_ZH-CN9224189688_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
