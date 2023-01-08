@@ -1,3 +1,9 @@
+## 2023-1-8 我们去哪里玩？  
+
+科罗拉多州布雷肯里奇 (© Sean Pavone/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.Breckenridge_ZH-CN9598860382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.Breckenridge_ZH-CN9598860382_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2023-1-7 纺纱杆到底是什么东西？  
 
 羊毛和马海毛纱线 (© Jurate Buiviene/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.Mohair_ZH-CN9435762268_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
