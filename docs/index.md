@@ -1,3 +1,9 @@
+## 2023-1-9 神奇水牛在哪里？  
+
+南达科他州风洞国家公园的水牛 (© Charlie Summers/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.BisonWindCave_ZH-CN9778045938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.BisonWindCave_ZH-CN9778045938_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2023-1-8 我们去哪里玩？  
 
 科罗拉多州布雷肯里奇 (© Sean Pavone/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.Breckenridge_ZH-CN9598860382_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
