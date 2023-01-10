@@ -1,3 +1,9 @@
+## 2023-1-10 当冰块变成了艺术  
+
+爱沙尼亚佩普斯湖上的小冰丘 (© Sven Zacek/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.HummockIce_ZH-CN9917832145_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.HummockIce_ZH-CN9917832145_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2023-1-9 神奇水牛在哪里？  
 
 南达科他州风洞国家公园的水牛 (© Charlie Summers/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.BisonWindCave_ZH-CN9778045938_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
