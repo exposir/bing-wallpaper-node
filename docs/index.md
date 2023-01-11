@@ -1,3 +1,9 @@
+## 2023-1-11 到灯塔去！  
+
+戈德雷维灯塔，英国康沃尔郡 (© Paul Nash/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.GodrevyRocks_ZH-CN0051118926_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.GodrevyRocks_ZH-CN0051118926_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2023-1-10 当冰块变成了艺术  
 
 爱沙尼亚佩普斯湖上的小冰丘 (© Sven Zacek/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.HummockIce_ZH-CN9917832145_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
