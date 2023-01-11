@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/exposir/bing-wallpaper-node.git"
   },
-  "author": "",
+  "author": "exposir",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/exposir/bing-wallpaper-node/issues"
