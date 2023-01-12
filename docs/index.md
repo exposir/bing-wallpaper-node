@@ -1,3 +1,9 @@
+## 2023-1-12 两大洲交接的地方  
+
+博斯普鲁斯海峡的如梅利堡垒，土耳其伊斯坦布尔 (© Drone in Wonderland/Amazing Aerial Agency) [4k Edition](https://cn.bing.com//th?id=OHR.RumeliHisari_ZH-CN0185820275_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.RumeliHisari_ZH-CN0185820275_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2023-1-11 到灯塔去！  
 
 戈德雷维灯塔，英国康沃尔郡 (© Paul Nash/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.GodrevyRocks_ZH-CN0051118926_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
