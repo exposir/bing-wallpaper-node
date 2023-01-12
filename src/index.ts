@@ -21,9 +21,9 @@ async function init() {
     const day = time.getDate();
     const date = `${year}-${month}-${day}`;
 
-    console.log(time.getHours());
+    
 
-    console.log("date", date);
+    
 
     const bing1080Url = `https://cn.bing.com/${url}`;
 
@@ -39,7 +39,7 @@ async function init() {
       const response = await fetch(url);
       const buffer = await response.buffer();
       writeFile(file, buffer, () =>
-        console.log(`finished downloading! ${name}`)
+        {}
       );
     }
 
@@ -58,7 +58,7 @@ async function init() {
       chinesePreviewTitle,
     };
 
-    console.log("成功");
+    
 
     readFile("./map.json", function (err, data) {
       const a = data.toString();
@@ -67,7 +67,7 @@ async function init() {
 
       writeFile("./map.json", JSON.stringify(b), function (err) {
         if (err) {
-          return console.error(err);
+          
         }
       });
       writeReadme(b);
@@ -108,7 +108,7 @@ const writeReadme = async (list: any) => {
         newArr.push(`|${data}`);
       }
 
-      console.log(newArr);
+      
     }
 
   });
@@ -117,22 +117,22 @@ const writeReadme = async (list: any) => {
 
   arr.push(a);
 
-  console.log("准备写入文件");
+  
 
   readFile("README.md", function (err, data) {
     if (err) {
-      return console.error(err);
+      
     }
 
     writeFile("README.md", arr.join(""), function (err) {
       if (err) {
-        return console.error(err);
+        
       }
       readFile("README.md", function (err, data) {
         if (err) {
-          return console.error(err);
+          
         }
-        console.log("异步读取文件数据: " + data.toString());
+        
       });
     });
   });
@@ -142,7 +142,7 @@ const writeIndex = async (b: any) => {
   const arr: string[] = [];
 
   b.forEach((item: any) => {
-    console.log(item);
+    
     arr.push(`## ${item.date} ${item.chineseTitle}  \n\n`);
     arr.push(`${item.chineseCopyright} [4k Edition](${item.bing4kUrl})  \n\n`);
     arr.push(`![](${item.bing1080Url}) \n\n`);
@@ -151,13 +151,13 @@ const writeIndex = async (b: any) => {
 
   writeFile("./docs/index.md", newData, function (err) {
     if (err) {
-      return console.error(err);
+      
     }
     readFile("./docs/index.md", function (err, data) {
       if (err) {
-        return console.error(err);
+        
       }
-      console.log("异步读取文件数据: " + data.toString());
+      
     });
   });
 };
