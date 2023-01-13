@@ -1,3 +1,9 @@
+## 2023-1-13 海中的红杉  
+
+海峡群岛国家公园的巨藻，美国加利福尼亚州 (© Brandon Cole Images/Shutterstock) [4k Edition](https://cn.bing.com//th?id=OHR.Pneumatocysts_ZH-CN5721988566_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.Pneumatocysts_ZH-CN5721988566_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2023-1-12 两大洲交接的地方  
 
 博斯普鲁斯海峡的如梅利堡垒，土耳其伊斯坦布尔 (© Drone in Wonderland/Amazing Aerial Agency) [4k Edition](https://cn.bing.com//th?id=OHR.RumeliHisari_ZH-CN0185820275_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
