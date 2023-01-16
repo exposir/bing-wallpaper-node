@@ -1,3 +1,9 @@
+## 2023-1-16 美丽又危险  
+
+麦切纳山和结冰的亚伯拉罕湖，加拿大艾伯塔省 (© Tom Mackie/plainpicture) [4k Edition](https://cn.bing.com//th?id=OHR.FrozenBubblesAlberta_ZH-CN6154214678_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.FrozenBubblesAlberta_ZH-CN6154214678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2023-1-15 冰雪皑皑的芬兰  
 
 横贯图尔库的奥拉河, 芬兰 (© Jarmo Piironen/Alamy) [4k Edition](https://cn.bing.com//th?id=OHR.Turku_ZH-CN6008877545_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
