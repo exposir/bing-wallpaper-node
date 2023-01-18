@@ -1,3 +1,6 @@
+
+### Migrate to https://github.com/bing-wallpapers/website
+
 # [Bing Wallpapers](https://bing-wallpapers.vercel.app)  
 
 ### 2023-1-18 世界最大的石膏沙漠  
