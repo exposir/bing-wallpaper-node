@@ -1,3 +1,9 @@
+## 2023-1-18 世界最大的石膏沙漠  
+
+白沙国家公园，美国新墨西哥州 (© Andrea Harrell/Tandem Stills + Motion) [4k Edition](https://cn.bing.com//th?id=OHR.WhiteSands_ZH-CN6500188005_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
+
+![](https://cn.bing.com//th?id=OHR.WhiteSands_ZH-CN6500188005_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp) 
+
 ## 2023-1-17 树木之美  
 
 穆涅略斯自然保护区，西班牙 (© Andres M. Dominguez/Minden Pictures) [4k Edition](https://cn.bing.com//th?id=OHR.SessileOaks_ZH-CN6385464274_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp)  
